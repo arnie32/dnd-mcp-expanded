@@ -1,3 +1,6 @@
+# Generated databases
+extra_classes.db
+
 # Python artifacts
 __pycache__/
 *.py[cod]

@@ -19,6 +19,8 @@ from src.core import prompts
 from src.core import tools
 from src.core import resources
 from src.core.cache import APICache
+from src.extra_classes import tools as extra_classes_tools
+from src.extra_classes.db import open_db as open_extra_classes_db
 
 # Configure more detailed logging
 log_dir = "logs"
@@ -62,6 +64,8 @@ def main():
         resources.register_resources(app, cache)
         tools.register_tools(app, cache)
         prompts.register_prompts(app)
+        extra_db = open_extra_classes_db()
+        extra_classes_tools.register_extra_classes_tools(app, extra_db)
 
         # Run the app
         print("Running FastMCP app...", file=sys.stderr)

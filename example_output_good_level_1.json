@@ -1,0 +1,453 @@
+{
+    "success": true,
+    "progression": {
+        "className": "Cleric",
+        "subclassName": "Nature",
+        "level": 1,
+        "source": {
+            "classConfig": true,
+            "mcpExtraClass": true,
+            "officialSpellApi": true,
+            "mcpError": ""
+        },
+        "autoGrantedFeatures": [
+            {
+                "id": "spellcasting-1",
+                "name": "Spellcasting",
+                "source": "class",
+                "level": 1,
+                "type": "feature"
+            },
+            {
+                "id": "divine-domain-1",
+                "name": "Divine Domain",
+                "source": "class",
+                "level": 1,
+                "type": "feature"
+            }
+        ],
+        "abilityOptions": [
+            {
+                "id": "269d1a3b-eed8-4131-8901-a562238f5289",
+                "name": "269d1a3b-eed8-4131-8901-a562238f5289",
+                "description": "",
+                "type": "spells",
+                "level": 1,
+                "spellSchool": "",
+                "damageType": "",
+                "range": ""
+            },
+            {
+                "id": "2f43a103-5bf1-4534-b14f-663decc0c525",
+                "name": "2f43a103-5bf1-4534-b14f-663decc0c525",
+                "description": "",
+                "type": "spells",
+                "level": 1,
+                "spellSchool": "",
+                "damageType": "",
+                "range": ""
+            },
+            {
+                "id": "6cb9d731-a518-46f0-b20e-9e2bf18e6acd",
+                "name": "6cb9d731-a518-46f0-b20e-9e2bf18e6acd",
+                "description": "",
+                "type": "abilities",
+                "level": 1,
+                "spellSchool": "",
+                "damageType": "",
+                "range": ""
+            },
+            {
+                "id": "abilitybonus",
+                "name": "AbilityBonus",
+                "description": "",
+                "type": "abilities",
+                "level": 1,
+                "spellSchool": "",
+                "damageType": "",
+                "range": ""
+            },
+            {
+                "id": "domainspells",
+                "name": "DomainSpells",
+                "description": "",
+                "type": "passives",
+                "level": 1,
+                "spellSchool": "",
+                "damageType": "",
+                "range": ""
+            },
+            {
+                "id": "flails",
+                "name": "Flails",
+                "description": "",
+                "type": "abilities",
+                "level": 1,
+                "spellSchool": "",
+                "damageType": "",
+                "range": ""
+            },
+            {
+                "id": "lightarmor",
+                "name": "LightArmor",
+                "description": "",
+                "type": "abilities",
+                "level": 1,
+                "spellSchool": "",
+                "damageType": "",
+                "range": ""
+            },
+            {
+                "id": "mediumarmor",
+                "name": "MediumArmor",
+                "description": "",
+                "type": "abilities",
+                "level": 1,
+                "spellSchool": "",
+                "damageType": "",
+                "range": ""
+            },
+            {
+                "id": "morningstars",
+                "name": "Morningstars",
+                "description": "",
+                "type": "abilities",
+                "level": 1,
+                "spellSchool": "",
+                "damageType": "",
+                "range": ""
+            },
+            {
+                "id": "savingthrow",
+                "name": "SavingThrow",
+                "description": "",
+                "type": "abilities",
+                "level": 1,
+                "spellSchool": "",
+                "damageType": "",
+                "range": ""
+            },
+            {
+                "id": "shields",
+                "name": "Shields",
+                "description": "",
+                "type": "abilities",
+                "level": 1,
+                "spellSchool": "",
+                "damageType": "",
+                "range": ""
+            },
+            {
+                "id": "simpleweapons",
+                "name": "SimpleWeapons",
+                "description": "",
+                "type": "abilities",
+                "level": 1,
+                "spellSchool": "",
+                "damageType": "",
+                "range": ""
+            },
+            {
+                "id": "spellslot",
+                "name": "SpellSlot",
+                "description": "",
+                "type": "resources",
+                "level": 1,
+                "spellSchool": "",
+                "damageType": "",
+                "range": ""
+            },
+            {
+                "id": "unlockedspellslotlevel1",
+                "name": "UnlockedSpellSlotLevel1",
+                "description": "",
+                "type": "passives",
+                "level": 1,
+                "spellSchool": "",
+                "damageType": "",
+                "range": ""
+            }
+        ],
+        "availableCantrips": [
+            {
+                "id": "guidance",
+                "name": "Guidance",
+                "level": 0,
+                "school": "Divination",
+                "castingTime": "1 action",
+                "description": "You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.",
+                "uri": "resource://dnd/item/spells/guidance"
+            },
+            {
+                "id": "light",
+                "name": "Light",
+                "level": 0,
+                "school": "Evocation",
+                "castingTime": "1 action",
+                "description": "You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action. If you target an object held or worn by a hostile creature, that creature must succeed on a dexterity saving throw to avoid the spell.",
+                "uri": "resource://dnd/item/spells/light"
+            },
+            {
+                "id": "mending",
+                "name": "Mending",
+                "level": 0,
+                "school": "Transmutation",
+                "castingTime": "1 minute",
+                "description": "This spell repairs a single break or tear in an object you touch, such as a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no longer than 1 foot in any dimension, you mend it, leaving no trace of the former damage. This spell can physically repair a magic item or construct, but the spell can't restore magic to such an object.",
+                "uri": "resource://dnd/item/spells/mending"
+            },
+            {
+                "id": "resistance",
+                "name": "Resistance",
+                "level": 0,
+                "school": "Abjuration",
+                "castingTime": "1 action",
+                "description": "You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after making the saving throw. The spell then ends.",
+                "uri": "resource://dnd/item/spells/resistance"
+            },
+            {
+                "id": "sacred-flame",
+                "name": "Sacred Flame",
+                "level": 0,
+                "school": "Evocation",
+                "castingTime": "1 action",
+                "description": "Flame-like radiance descends on a creature that you can see within range. The target must succeed on a dexterity saving throw or take 1d8 radiant damage. The target gains no benefit from cover for this saving throw. The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).",
+                "uri": "resource://dnd/item/spells/sacred-flame"
+            },
+            {
+                "id": "spare-the-dying",
+                "name": "Spare the Dying",
+                "level": 0,
+                "school": "Necromancy",
+                "castingTime": "1 action",
+                "description": "You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs.",
+                "uri": "resource://dnd/item/spells/spare-the-dying"
+            },
+            {
+                "id": "thaumaturgy",
+                "name": "Thaumaturgy",
+                "level": 0,
+                "school": "Transmutation",
+                "castingTime": "1 action",
+                "description": "You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range. - Your voice booms up to three times as loud as normal for 1 minute. - You cause flames to flicker, brighten, dim, or change color for 1 minute. - You cause harmless tremors in the ground for 1 minute. - You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers. - You instantaneously cause an unlocked door or window to fly open or slam shut. - You alter the appearance of your eyes for 1 minute. If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.",
+                "uri": "resource://dnd/item/spells/thaumaturgy"
+            }
+        ],
+        "availableSpells": [
+            {
+                "id": "bane",
+                "name": "Bane",
+                "level": 1,
+                "school": "Enchantment",
+                "castingTime": "1 action",
+                "description": "Up to three creatures of your choice that you can see within range must make charisma saving throws. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll a d4 and subtract the number rolled from the attack roll or saving throw.",
+                "uri": "resource://dnd/item/spells/bane"
+            },
+            {
+                "id": "bless",
+                "name": "Bless",
+                "level": 1,
+                "school": "Enchantment",
+                "castingTime": "1 action",
+                "description": "You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw.",
+                "uri": "resource://dnd/item/spells/bless"
+            },
+            {
+                "id": "command",
+                "name": "Command",
+                "level": 1,
+                "school": "Enchantment",
+                "castingTime": "1 action",
+                "description": "You speak a one-word command to a creature you can see within range. The target must succeed on a wisdom saving throw or follow the command on its next turn. The spell has no effect if the target is undead, if it doesn't understand your language, or if your command is directly harmful to it. Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the GM determines how the target behaves. If the target can't follow your command, the spell ends. ***Approach.*** The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you. ***Drop.*** The target drops whatever it is holding and then ends its turn. ***Flee.*** The target spends its turn moving away from you by the fastest available means. ***Grovel.*** The target falls prone and then ends its turn. ***Halt.*** The target doesn't move and takes no actions. A flying creature stays aloft, provided that it is able to do so. If it must move to stay aloft, it flies the minimum distance needed to remain in the air.",
+                "uri": "resource://dnd/item/spells/command"
+            },
+            {
+                "id": "create-or-destroy-water",
+                "name": "Create or Destroy Water",
+                "level": 1,
+                "school": "Transmutation",
+                "castingTime": "1 action",
+                "description": "You either create or destroy water. ***Create Water.*** You create up to 10 gallons of clean water within range in an open container. Alternatively, the water falls as rain in a 30-foot cube within range. ***Destroy Water.*** You destroy up to 10 gallons of water in an open container within range. Alternatively, you destroy fog in a 30-foot cube within range.",
+                "uri": "resource://dnd/item/spells/create-or-destroy-water"
+            },
+            {
+                "id": "cure-wounds",
+                "name": "Cure Wounds",
+                "level": 1,
+                "school": "Evocation",
+                "castingTime": "1 action",
+                "description": "A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
+                "uri": "resource://dnd/item/spells/cure-wounds"
+            },
+            {
+                "id": "detect-evil-and-good",
+                "name": "Detect Evil and Good",
+                "level": 1,
+                "school": "Divination",
+                "castingTime": "1 action",
+                "description": "For the duration, you know if there is an aberration, celestial, elemental, fey, fiend, or undead within 30 feet of you, as well as where the creature is located. Similarly, you know if there is a place or object within 30 feet of you that has been magically consecrated or desecrated. The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.",
+                "uri": "resource://dnd/item/spells/detect-evil-and-good"
+            },
+            {
+                "id": "detect-magic",
+                "name": "Detect Magic",
+                "level": 1,
+                "school": "Divination",
+                "castingTime": "1 action",
+                "description": "For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any. The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.",
+                "uri": "resource://dnd/item/spells/detect-magic"
+            },
+            {
+                "id": "detect-poison-and-disease",
+                "name": "Detect Poison and Disease",
+                "level": 1,
+                "school": "Divination",
+                "castingTime": "1 action",
+                "description": "For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case. The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.",
+                "uri": "resource://dnd/item/spells/detect-poison-and-disease"
+            },
+            {
+                "id": "guiding-bolt",
+                "name": "Guiding Bolt",
+                "level": 1,
+                "school": "Evocation",
+                "castingTime": "1 action",
+                "description": "A flash of light streaks toward a creature of your choice within range. Make a ranged spell attack against the target. On a hit, the target takes 4d6 radiant damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.",
+                "uri": "resource://dnd/item/spells/guiding-bolt"
+            },
+            {
+                "id": "healing-word",
+                "name": "Healing Word",
+                "level": 1,
+                "school": "Evocation",
+                "castingTime": "1 bonus action",
+                "description": "A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
+                "uri": "resource://dnd/item/spells/healing-word"
+            },
+            {
+                "id": "inflict-wounds",
+                "name": "Inflict Wounds",
+                "level": 1,
+                "school": "Necromancy",
+                "castingTime": "1 action",
+                "description": "Make a melee spell attack against a creature you can reach. On a hit, the target takes 3d10 necrotic damage.",
+                "uri": "resource://dnd/item/spells/inflict-wounds"
+            },
+            {
+                "id": "protection-from-evil-and-good",
+                "name": "Protection from Evil and Good",
+                "level": 1,
+                "school": "Abjuration",
+                "castingTime": "1 action",
+                "description": "Until the spell ends, one willing creature you touch is protected against certain types of creatures: aberrations, celestials, elementals, fey, fiends, and undead. The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can't be charmed, frightened, or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.",
+                "uri": "resource://dnd/item/spells/protection-from-evil-and-good"
+            },
+            {
+                "id": "purify-food-and-drink",
+                "name": "Purify Food and Drink",
+                "level": 1,
+                "school": "Transmutation",
+                "castingTime": "1 action",
+                "description": "All nonmagical food and drink within a 5-foot radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.",
+                "uri": "resource://dnd/item/spells/purify-food-and-drink"
+            },
+            {
+                "id": "sanctuary",
+                "name": "Sanctuary",
+                "level": 1,
+                "school": "Abjuration",
+                "castingTime": "1 bonus action",
+                "description": "You ward a creature within range against attack. Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must first make a wisdom saving throw. On a failed save, the creature must choose a new target or lose the attack or spell. This spell doesn't protect the warded creature from area effects, such as the explosion of a fireball. If the warded creature makes an attack or casts a spell that affects an enemy creature, this spell ends.",
+                "uri": "resource://dnd/item/spells/sanctuary"
+            },
+            {
+                "id": "shield-of-faith",
+                "name": "Shield of Faith",
+                "level": 1,
+                "school": "Abjuration",
+                "castingTime": "1 bonus action",
+                "description": "A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.",
+                "uri": "resource://dnd/item/spells/shield-of-faith"
+            }
+        ],
+        "choiceGroups": [
+            {
+                "id": "cantrip-picks",
+                "label": "Cantrip Picks",
+                "type": "cantrip",
+                "pickCount": 3,
+                "options": [
+                    {
+                        "id": "guidance",
+                        "name": "Guidance",
+                        "level": 0,
+                        "school": "Divination",
+                        "castingTime": "1 action",
+                        "description": "You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.",
+                        "uri": "resource://dnd/item/spells/guidance"
+                    },
+                    {
+                        "id": "light",
+                        "name": "Light",
+                        "level": 0,
+                        "school": "Evocation",
+                        "castingTime": "1 action",
+                        "description": "You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action. If you target an object held or worn by a hostile creature, that creature must succeed on a dexterity saving throw to avoid the spell.",
+                        "uri": "resource://dnd/item/spells/light"
+                    },
+                    {
+                        "id": "mending",
+                        "name": "Mending",
+                        "level": 0,
+                        "school": "Transmutation",
+                        "castingTime": "1 minute",
+                        "description": "This spell repairs a single break or tear in an object you touch, such as a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no longer than 1 foot in any dimension, you mend it, leaving no trace of the former damage. This spell can physically repair a magic item or construct, but the spell can't restore magic to such an object.",
+                        "uri": "resource://dnd/item/spells/mending"
+                    },
+                    {
+                        "id": "resistance",
+                        "name": "Resistance",
+                        "level": 0,
+                        "school": "Abjuration",
+                        "castingTime": "1 action",
+                        "description": "You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after making the saving throw. The spell then ends.",
+                        "uri": "resource://dnd/item/spells/resistance"
+                    },
+                    {
+                        "id": "sacred-flame",
+                        "name": "Sacred Flame",
+                        "level": 0,
+                        "school": "Evocation",
+                        "castingTime": "1 action",
+                        "description": "Flame-like radiance descends on a creature that you can see within range. The target must succeed on a dexterity saving throw or take 1d8 radiant damage. The target gains no benefit from cover for this saving throw. The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).",
+                        "uri": "resource://dnd/item/spells/sacred-flame"
+                    },
+                    {
+                        "id": "spare-the-dying",
+                        "name": "Spare the Dying",
+                        "level": 0,
+                        "school": "Necromancy",
+                        "castingTime": "1 action",
+                        "description": "You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs.",
+                        "uri": "resource://dnd/item/spells/spare-the-dying"
+                    },
+                    {
+                        "id": "thaumaturgy",
+                        "name": "Thaumaturgy",
+                        "level": 0,
+                        "school": "Transmutation",
+                        "castingTime": "1 action",
+                        "description": "You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range. - Your voice booms up to three times as loud as normal for 1 minute. - You cause flames to flicker, brighten, dim, or change color for 1 minute. - You cause harmless tremors in the ground for 1 minute. - You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers. - You instantaneously cause an unlocked door or window to fly open or slam shut. - You alter the appearance of your eyes for 1 minute. If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.",
+                        "uri": "resource://dnd/item/spells/thaumaturgy"
+                    }
+                ]
+            }
+        ],
+        "spellSlots": {
+            "level_1": {
+                "max": 2,
+                "remaining": 2
+            }
+        }
+    }
+}
