@@ -3,6 +3,8 @@
 import json
 import sqlite3
 
+from .db import open_db
+
 
 def register_extra_classes_tools(app, db: sqlite3.Connection) -> None:
     """Register all extra-classes tools on the FastMCP app."""
@@ -115,6 +117,28 @@ def register_extra_classes_tools(app, db: sqlite3.Connection) -> None:
             )
         result["abilities_by_level"] = abilities_by_level
 
+        # data_complete: purely count-based heuristic — no name checks
+        ab_count_q = (
+            "SELECT COUNT(*) FROM class_ability_refs WHERE lower(class_name) = lower(?)"
+        )
+        ab_count_params: list = [class_name]
+        if subclass_name is not None:
+            ab_count_q += " AND (subclass_name IS NULL OR lower(subclass_name) = lower(?))"
+            ab_count_params.append(subclass_name)
+        total_ability_refs = db.execute(ab_count_q, ab_count_params).fetchone()[0]
+
+        total_features = sum(
+            len(json.loads(fr["features"] or "[]"))
+            for fr in db.execute(
+                "SELECT features FROM class_features WHERE lower(class_name) = lower(?)",
+                (class_name,),
+            ).fetchall()
+        )
+
+        # Threshold >30 excludes source=custom stubs (≤24 generic features)
+        # while passing real classes (all have ab_refs>0 or feature-rich subclass data)
+        result["data_complete"] = total_ability_refs > 0 or total_features > 30
+
         return result
 
     @app.tool()
@@ -170,3 +194,15 @@ def register_extra_classes_tools(app, db: sqlite3.Connection) -> None:
         # Re-order by the FTS rank order
         order = {rid: i for i, rid in enumerate(matched_ids)}
         return sorted([dict(r) for r in rows], key=lambda r: order.get(r["raw_id"], 999))
+
+    @app.tool()
+    def reload_db() -> dict:
+        """Reload the extra_classes database from disk without restarting the server.
+
+        Call this after rebuilding extra_classes.db to pick up new data
+        without a server restart.
+        """
+        nonlocal db
+        db.close()
+        db = open_db()
+        return {"status": "reloaded"}
