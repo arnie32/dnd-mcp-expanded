@@ -21,6 +21,9 @@ from src.core import resources
 from src.core.cache import APICache
 from src.extra_classes import tools as extra_classes_tools
 from src.extra_classes.db import open_db as open_extra_classes_db
+from src.monsters import tools as monster_tools
+from src.monsters.db import open_db as open_monster_db
+from src.monsters.schema import ensure_schema as ensure_monster_schema
 
 # Configure more detailed logging
 log_dir = "logs"
@@ -66,6 +69,10 @@ def main():
         prompts.register_prompts(app)
         extra_db = open_extra_classes_db()
         extra_classes_tools.register_extra_classes_tools(app, extra_db)
+
+        monster_db = open_monster_db()
+        ensure_monster_schema(monster_db)
+        monster_tools.register_monster_tools(app, monster_db)
 
         # Run the app
         print("Running FastMCP app...", file=sys.stderr)
