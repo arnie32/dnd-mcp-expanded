@@ -167,6 +167,151 @@ INHERITANCE_MAP = [
             dict(class_name="Paladin", subclass_name=None),
         ],
     ),
+
+    # -----------------------------------------------------------------------
+    # Homebrew subclasses — each uses the same donor pool as its base class
+    # so we inherit the same set of safe, resolved refs.
+    # -----------------------------------------------------------------------
+
+    # Beastmaster (Standalone) subclasses
+    *[
+        dict(
+            target_class="Beastmaster (Standalone)",
+            target_subclass=sub,
+            donors=[
+                dict(class_name="Ranger", subclass_name="Houndmaster"),
+                dict(class_name="Ranger", subclass_name="Drakewarden"),
+                dict(class_name="Ranger", subclass_name=None),
+            ],
+        )
+        for sub in ["Primal Tamer", "Dragon Handler", "Spirit Beast Caller", "Pack Leader"]
+    ],
+
+    # Chronomancer subclasses
+    *[
+        dict(
+            target_class="Chronomancer",
+            target_subclass=sub,
+            donors=[
+                dict(class_name="Wizard", subclass_name="Chronurgy"),
+                dict(class_name="Wizard", subclass_name="Graviturgy"),
+                dict(class_name="Wizard", subclass_name=None),
+            ],
+        )
+        for sub in ["Time Weaver", "Paradox Mage", "Future Seer", "Temporal Assassin"]
+    ],
+
+    # Dragoon subclasses
+    *[
+        dict(
+            target_class="Dragoon",
+            target_subclass=sub,
+            donors=[
+                dict(class_name="Fighter", subclass_name="Echo Knight"),
+                dict(class_name="Fighter", subclass_name=None),
+                dict(class_name="Paladin", subclass_name=None),
+            ],
+        )
+        for sub in ["Sky Lancer", "Dragon Slayer", "Storm Diver", "Aerial Knight"]
+    ],
+
+    # Gunslinger subclasses
+    *[
+        dict(
+            target_class="Gunslinger",
+            target_subclass=sub,
+            donors=[
+                dict(class_name="Ranger", subclass_name="Siael Dark Ranger"),
+                dict(class_name="Rogue", subclass_name="Debonaire"),
+                dict(class_name="Ranger", subclass_name=None),
+            ],
+        )
+        for sub in ["Sniper", "Pistolero", "Scattergunner", "Arcane Gunner"]
+    ],
+
+    # Psion subclasses
+    *[
+        dict(
+            target_class="Psion",
+            target_subclass=sub,
+            donors=[
+                dict(class_name="Mystic", subclass_name="Soul Knife"),
+                dict(class_name="Mystic", subclass_name="Awakened"),
+                dict(class_name="Mystic", subclass_name=None),
+            ],
+        )
+        for sub in ["Telepath", "Telekinetic", "Clairsentient", "Metamind"]
+    ],
+
+    # Runemaster subclasses
+    *[
+        dict(
+            target_class="Runemaster",
+            target_subclass=sub,
+            donors=[
+                dict(class_name="Fighter", subclass_name="Rune Knight"),
+                dict(class_name="Wizard", subclass_name="Runesmith"),
+                dict(class_name="Fighter", subclass_name=None),
+            ],
+        )
+        for sub in ["Rune Knight", "Glyph Warden", "Sigil Mage", "Ancient Carver"]
+    ],
+
+    # Shaman subclasses
+    *[
+        dict(
+            target_class="Shaman",
+            target_subclass=sub,
+            donors=[
+                dict(class_name="Druid", subclass_name="Circle Of The Shepherd"),
+                dict(class_name="Cleric", subclass_name="Strength Domain"),
+                dict(class_name="Druid", subclass_name=None),
+            ],
+        )
+        for sub in ["Spirit Caller", "Totem Binder", "Ancestor Speaker", "Elemental Channeler"]
+    ],
+
+    # Spellblade subclasses
+    *[
+        dict(
+            target_class="Spellblade",
+            target_subclass=sub,
+            donors=[
+                dict(class_name="Magus", subclass_name="Svmagus Arcane"),
+                dict(class_name="Magus", subclass_name=None),
+                dict(class_name="Fighter", subclass_name="Sb Fencer"),
+            ],
+        )
+        for sub in ["Arcane Knight", "Elemental Blade", "Runic Warrior", "Spell Duelist"]
+    ],
+
+    # Summoner subclasses
+    *[
+        dict(
+            target_class="Summoner",
+            target_subclass=sub,
+            donors=[
+                dict(class_name="Druid", subclass_name="Circle Of The Shepherd"),
+                dict(class_name="Druid", subclass_name="Circle Of Wildfire"),
+                dict(class_name="Druid", subclass_name=None),
+            ],
+        )
+        for sub in ["Eidolon Binder", "Demon Summoner", "Fey Caller", "Construct Master"]
+    ],
+
+    # Warlord subclasses
+    *[
+        dict(
+            target_class="Warlord",
+            target_subclass=sub,
+            donors=[
+                dict(class_name="Bard", subclass_name="Command College"),
+                dict(class_name="Fighter", subclass_name="Banneret5E"),
+                dict(class_name="Fighter", subclass_name=None),
+            ],
+        )
+        for sub in ["Commander", "Tactician", "Inspiring Leader", "Skirmisher", "Banner Commander"]
+    ],
 ]
 
 
