@@ -7,6 +7,9 @@ import pickle
 
 logger = logging.getLogger(__name__)
 
+CACHE_SCHEMA_VERSION = 2
+CACHE_REFRESH_WARNING_DAYS = 7
+
 
 class APICache:
     """A time-based cache for API responses with optional persistence."""
@@ -53,8 +56,37 @@ class APICache:
                 with open(index_path, "r") as f:
                     index = json.load(f)
 
+                if not isinstance(index, dict):
+                    logger.warning("Persistent cache index is invalid; expected object/dict")
+                    return
+
+                meta = index.get("__meta__") if isinstance(index.get("__meta__"), dict) else {}
+                schema_version = int(meta.get("schema_version", 1))
+                if schema_version < CACHE_SCHEMA_VERSION:
+                    logger.warning(
+                        "Persistent cache schema_version=%s is older than expected=%s; refresh recommended",
+                        schema_version,
+                        CACHE_SCHEMA_VERSION,
+                    )
+
+                last_refresh_raw = str(meta.get("last_refresh", "")).strip()
+                if last_refresh_raw:
+                    try:
+                        last_refresh = datetime.fromisoformat(last_refresh_raw)
+                        stale_after = timedelta(days=CACHE_REFRESH_WARNING_DAYS)
+                        if datetime.now() - last_refresh > stale_after:
+                            logger.warning(
+                                "Persistent cache last_refresh=%s is older than %s days; refresh recommended",
+                                last_refresh_raw,
+                                CACHE_REFRESH_WARNING_DAYS,
+                            )
+                    except Exception:
+                        logger.warning("Persistent cache last_refresh is invalid: %s", last_refresh_raw)
+
                 # Load each cache item
                 for key, timestamp_str in index.items():
+                    if key == "__meta__":
+                        continue
                     timestamp = datetime.fromisoformat(timestamp_str)
                     if datetime.now() - timestamp < self.ttl:
                         cache_path = self._get_cache_path(key)
@@ -99,7 +131,14 @@ class APICache:
                 except Exception:
                     pass
 
+            if not isinstance(index, dict):
+                index = {}
+
             index[key] = timestamp.isoformat()
+            index["__meta__"] = {
+                "schema_version": CACHE_SCHEMA_VERSION,
+                "last_refresh": timestamp.isoformat(),
+            }
 
             with open(index_path, "w") as f:
                 json.dump(index, f)
