@@ -1,0 +1,2006 @@
+[
+  {
+    "slug": "awakened-shrub",
+    "name": "Awakened Shrub",
+    "challenge_rating": 0.0,
+    "prompt": "Portrait of a Awakened Shrub DnD full body illustration, Small plant, unaligned, armed with Rake, abilities: False Appearance"
+  },
+  {
+    "slug": "baboon",
+    "name": "Baboon",
+    "challenge_rating": 0.0,
+    "prompt": "Portrait of a Baboon DnD full body illustration, Small beast, unaligned, armed with Bite, abilities: Pack Tactics"
+  },
+  {
+    "slug": "badger",
+    "name": "Badger",
+    "challenge_rating": 0.0,
+    "prompt": "Portrait of a Badger DnD full body illustration, Tiny beast, unaligned, armed with Bite, darkvision eyes adapted for the dark, abilities: Keen Smell"
+  },
+  {
+    "slug": "bat",
+    "name": "Bat",
+    "challenge_rating": 0.0,
+    "prompt": "Portrait of a Bat DnD full body illustration, Tiny beast, unaligned, armed with Bite, blind but blindsight perception, abilities: Echolocation, Keen Hearing"
+  },
+  {
+    "slug": "cat",
+    "name": "Cat",
+    "challenge_rating": 0.0,
+    "prompt": "Portrait of a Cat DnD full body illustration, Tiny beast, unaligned, armed with Claws, abilities: Keen Smell"
+  },
+  {
+    "slug": "commoner",
+    "name": "Commoner",
+    "challenge_rating": 0.0,
+    "prompt": "Portrait of a Commoner DnD full body illustration, Medium any race humanoid, any alignment, armed with Club"
+  },
+  {
+    "slug": "crab",
+    "name": "Crab",
+    "challenge_rating": 0.0,
+    "prompt": "Portrait of a Crab DnD full body illustration, Tiny beast, unaligned, armed with Claw, blind but blindsight perception, abilities: Amphibious"
+  },
+  {
+    "slug": "deer",
+    "name": "Deer",
+    "challenge_rating": 0.0,
+    "prompt": "Portrait of a Deer DnD full body illustration, Medium beast, unaligned, armed with Bite"
+  },
+  {
+    "slug": "eagle",
+    "name": "Eagle",
+    "challenge_rating": 0.0,
+    "prompt": "Portrait of a Eagle DnD full body illustration, Small beast, unaligned, armed with Talons, abilities: Keen Sight"
+  },
+  {
+    "slug": "frog",
+    "name": "Frog",
+    "challenge_rating": 0.0,
+    "prompt": "Portrait of a Frog DnD full body illustration, Tiny beast, unaligned, darkvision eyes adapted for the dark, abilities: Amphibious, Standing Leap"
+  },
+  {
+    "slug": "giant-fire-beetle",
+    "name": "Giant Fire Beetle",
+    "challenge_rating": 0.0,
+    "prompt": "Portrait of a Giant Fire Beetle DnD full body illustration, Small beast, unaligned, armed with Bite, blind but blindsight perception, abilities: Illumination"
+  },
+  {
+    "slug": "goat",
+    "name": "Goat",
+    "challenge_rating": 0.0,
+    "prompt": "Portrait of a Goat DnD full body illustration, Medium beast, unaligned, armed with Ram, abilities: Charge, Sure-Footed"
+  },
+  {
+    "slug": "hawk",
+    "name": "Hawk",
+    "challenge_rating": 0.0,
+    "prompt": "Portrait of a Hawk DnD full body illustration, Tiny beast, unaligned, armed with Talons, abilities: Keen Sight"
+  },
+  {
+    "slug": "homunculus",
+    "name": "Homunculus",
+    "challenge_rating": 0.0,
+    "prompt": "Portrait of a Homunculus DnD full body illustration, Tiny construct, neutral, armed with Bite, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Telepathic Bond"
+  },
+  {
+    "slug": "hyena",
+    "name": "Hyena",
+    "challenge_rating": 0.0,
+    "prompt": "Portrait of a Hyena DnD full body illustration, Medium beast, unaligned, armed with Bite, abilities: Pack Tactics"
+  },
+  {
+    "slug": "jackal",
+    "name": "Jackal",
+    "challenge_rating": 0.0,
+    "prompt": "Portrait of a Jackal DnD full body illustration, Small beast, unaligned, armed with Bite, abilities: Keen Hearing and Smell, Pack Tactics"
+  },
+  {
+    "slug": "lemure",
+    "name": "Lemure",
+    "challenge_rating": 0.0,
+    "prompt": "Portrait of a Lemure DnD full body illustration, Medium devil fiend, lawful evil, armed with Fist, fire-resistant, flame-scarred hide, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Devil's Sight, Hellish Rejuvenation"
+  },
+  {
+    "slug": "lizard",
+    "name": "Lizard",
+    "challenge_rating": 0.0,
+    "prompt": "Portrait of a Lizard DnD full body illustration, Tiny beast, unaligned, armed with Bite, darkvision eyes adapted for the dark"
+  },
+  {
+    "slug": "octopus",
+    "name": "Octopus",
+    "challenge_rating": 0.0,
+    "prompt": "Portrait of a Octopus DnD full body illustration, Small beast, unaligned, armed with Tentacles, Ink Cloud, darkvision eyes adapted for the dark, abilities: Hold Breath, Underwater Camouflage, Water Breathing"
+  },
+  {
+    "slug": "owl",
+    "name": "Owl",
+    "challenge_rating": 0.0,
+    "prompt": "Portrait of a Owl DnD full body illustration, Tiny beast, unaligned, armed with Talons, darkvision eyes adapted for the dark, abilities: Flyby, Keen Hearing and Sight"
+  },
+  {
+    "slug": "quipper",
+    "name": "Quipper",
+    "challenge_rating": 0.0,
+    "prompt": "Portrait of a Quipper DnD full body illustration, Tiny beast, unaligned, armed with Bite, darkvision eyes adapted for the dark, abilities: Blood Frenzy, Water Breathing"
+  },
+  {
+    "slug": "rat",
+    "name": "Rat",
+    "challenge_rating": 0.0,
+    "prompt": "Portrait of a Rat DnD full body illustration, Tiny beast, unaligned, armed with Bite, darkvision eyes adapted for the dark, abilities: Keen Smell"
+  },
+  {
+    "slug": "raven",
+    "name": "Raven",
+    "challenge_rating": 0.0,
+    "prompt": "Portrait of a Raven DnD full body illustration, Tiny beast, unaligned, armed with Beak, abilities: Mimicry"
+  },
+  {
+    "slug": "scorpion",
+    "name": "Scorpion",
+    "challenge_rating": 0.0,
+    "prompt": "Portrait of a Scorpion DnD full body illustration, Tiny beast, unaligned, armed with Sting, blind but blindsight perception"
+  },
+  {
+    "slug": "sea-horse",
+    "name": "Sea Horse",
+    "challenge_rating": 0.0,
+    "prompt": "Portrait of a Sea Horse DnD full body illustration, Tiny beast, unaligned, abilities: Water Breathing"
+  },
+  {
+    "slug": "shrieker",
+    "name": "Shrieker",
+    "challenge_rating": 0.0,
+    "prompt": "Portrait of a Shrieker DnD full body illustration, Medium plant, unaligned, blind but blindsight perception, abilities: False Appearance"
+  },
+  {
+    "slug": "spider",
+    "name": "Spider",
+    "challenge_rating": 0.0,
+    "prompt": "Portrait of a Spider DnD full body illustration, Tiny beast, unaligned, armed with Bite, darkvision eyes adapted for the dark, abilities: Spider Climb, Web Sense, Web Walker"
+  },
+  {
+    "slug": "vulture",
+    "name": "Vulture",
+    "challenge_rating": 0.0,
+    "prompt": "Portrait of a Vulture DnD full body illustration, Medium beast, unaligned, armed with Beak, abilities: Keen Sight and Smell, Pack Tactics"
+  },
+  {
+    "slug": "weasel",
+    "name": "Weasel",
+    "challenge_rating": 0.0,
+    "prompt": "Portrait of a Weasel DnD full body illustration, Tiny beast, unaligned, armed with Bite, abilities: Keen Hearing and Smell"
+  },
+  {
+    "slug": "bandit",
+    "name": "Bandit",
+    "challenge_rating": 0.125,
+    "prompt": "Portrait of a Bandit DnD full body illustration, Medium any race humanoid, any non-lawful alignment, armed with Scimitar, Light Crossbow"
+  },
+  {
+    "slug": "blood-hawk",
+    "name": "Blood Hawk",
+    "challenge_rating": 0.125,
+    "prompt": "Portrait of a Blood Hawk DnD full body illustration, Small beast, unaligned, armed with Beak, abilities: Keen Sight, Pack Tactics"
+  },
+  {
+    "slug": "camel",
+    "name": "Camel",
+    "challenge_rating": 0.125,
+    "prompt": "Portrait of a Camel DnD full body illustration, Large beast, unaligned, armed with Bite"
+  },
+  {
+    "slug": "cultist",
+    "name": "Cultist",
+    "challenge_rating": 0.125,
+    "prompt": "Portrait of a Cultist DnD full body illustration, Medium any race humanoid, any non-good alignment, armed with Scimitar, abilities: Dark Devotion"
+  },
+  {
+    "slug": "flying-snake",
+    "name": "Flying Snake",
+    "challenge_rating": 0.125,
+    "prompt": "Portrait of a Flying Snake DnD full body illustration, Tiny beast, unaligned, armed with Bite, blind but blindsight perception, abilities: Flyby"
+  },
+  {
+    "slug": "giant-crab",
+    "name": "Giant Crab",
+    "challenge_rating": 0.125,
+    "prompt": "Portrait of a Giant Crab DnD full body illustration, Medium beast, unaligned, armed with Claw, blind but blindsight perception, abilities: Amphibious"
+  },
+  {
+    "slug": "giant-rat",
+    "name": "Giant Rat",
+    "challenge_rating": 0.125,
+    "prompt": "Portrait of a Giant Rat DnD full body illustration, Small beast, unaligned, armed with Bite, darkvision eyes adapted for the dark, abilities: Keen Smell, Pack Tactics"
+  },
+  {
+    "slug": "giant-rat-diseased",
+    "name": "Giant Rat (Diseased)",
+    "challenge_rating": 0.125,
+    "prompt": "Portrait of a Giant Rat (Diseased) DnD full body illustration, Small beast, unaligned, armed with Bite, darkvision eyes adapted for the dark, abilities: Keen Smell, Pack Tactics"
+  },
+  {
+    "slug": "giant-weasel",
+    "name": "Giant Weasel",
+    "challenge_rating": 0.125,
+    "prompt": "Portrait of a Giant Weasel DnD full body illustration, Medium beast, unaligned, armed with Bite, darkvision eyes adapted for the dark, abilities: Keen Hearing and Smell"
+  },
+  {
+    "slug": "guard",
+    "name": "Guard",
+    "challenge_rating": 0.125,
+    "prompt": "Portrait of a Guard DnD full body illustration, Medium any race humanoid, any alignment, armed with Spear"
+  },
+  {
+    "slug": "kobold",
+    "name": "Kobold",
+    "challenge_rating": 0.125,
+    "prompt": "Portrait of a Kobold DnD full body illustration, Small kobold humanoid, lawful evil, armed with Dagger, Sling, darkvision eyes adapted for the dark, abilities: Sunlight Sensitivity, Pack Tactics"
+  },
+  {
+    "slug": "mastiff",
+    "name": "Mastiff",
+    "challenge_rating": 0.125,
+    "prompt": "Portrait of a Mastiff DnD full body illustration, Medium beast, unaligned, armed with Bite, abilities: Keen Hearing and Smell"
+  },
+  {
+    "slug": "merfolk",
+    "name": "Merfolk",
+    "challenge_rating": 0.125,
+    "prompt": "Portrait of a Merfolk DnD full body illustration, Medium merfolk humanoid, neutral, armed with Spear, abilities: Amphibious"
+  },
+  {
+    "slug": "mule",
+    "name": "Mule",
+    "challenge_rating": 0.125,
+    "prompt": "Portrait of a Mule DnD full body illustration, Medium beast, unaligned, armed with Hooves, abilities: Beast of Burden, Sure-Footed"
+  },
+  {
+    "slug": "noble",
+    "name": "Noble",
+    "challenge_rating": 0.125,
+    "prompt": "Portrait of a Noble DnD full body illustration, Medium any race humanoid, any alignment, armed with Rapier"
+  },
+  {
+    "slug": "poisonous-snake",
+    "name": "Poisonous Snake",
+    "challenge_rating": 0.125,
+    "prompt": "Portrait of a Poisonous Snake DnD full body illustration, Tiny beast, unaligned, armed with Bite, blind but blindsight perception"
+  },
+  {
+    "slug": "pony",
+    "name": "Pony",
+    "challenge_rating": 0.125,
+    "prompt": "Portrait of a Pony DnD full body illustration, Medium beast, unaligned, armed with Hooves"
+  },
+  {
+    "slug": "stirge",
+    "name": "Stirge",
+    "challenge_rating": 0.125,
+    "prompt": "Portrait of a Stirge DnD full body illustration, Tiny beast, unaligned, armed with Blood Drain, darkvision eyes adapted for the dark"
+  },
+  {
+    "slug": "tribal-warrior",
+    "name": "Tribal Warrior",
+    "challenge_rating": 0.125,
+    "prompt": "Portrait of a Tribal Warrior DnD full body illustration, Medium any race humanoid, any alignment, armed with Spear, abilities: Pack Tactics"
+  },
+  {
+    "slug": "acolyte",
+    "name": "Acolyte",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Acolyte DnD full body illustration, Medium any race humanoid, any alignment, armed with Club, abilities: Spellcasting"
+  },
+  {
+    "slug": "axe-beak",
+    "name": "Axe Beak",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Axe Beak DnD full body illustration, Large beast, unaligned, armed with Beak"
+  },
+  {
+    "slug": "blink-dog",
+    "name": "Blink Dog",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Blink Dog DnD full body illustration, Medium fey, lawful good, armed with Bite, Teleport, abilities: Keen Hearing and Smell"
+  },
+  {
+    "slug": "boar",
+    "name": "Boar",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Boar DnD full body illustration, Medium beast, unaligned, armed with Tusk, abilities: Charge, Relentless"
+  },
+  {
+    "slug": "constrictor-snake",
+    "name": "Constrictor Snake",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Constrictor Snake DnD full body illustration, Large beast, unaligned, armed with Bite, Constrict, blind but blindsight perception"
+  },
+  {
+    "slug": "draft-horse",
+    "name": "Draft Horse",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Draft Horse DnD full body illustration, Large beast, unaligned, armed with Hooves"
+  },
+  {
+    "slug": "dretch",
+    "name": "Dretch",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Dretch DnD full body illustration, Small demon fiend, chaotic evil, armed with Multiattack, Bite, Claws, Fetid Cloud, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark"
+  },
+  {
+    "slug": "drow",
+    "name": "Drow",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Drow DnD full body illustration, Medium elf humanoid, neutral evil, armed with Shortsword, Hand Crossbow, darkvision eyes adapted for the dark, abilities: Fey Ancestry, Innate Spellcasting, Sunlight Sensitivity"
+  },
+  {
+    "slug": "elk",
+    "name": "Elk",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Elk DnD full body illustration, Large beast, unaligned, armed with Ram, Hooves, abilities: Charge"
+  },
+  {
+    "slug": "flying-sword",
+    "name": "Flying Sword",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Flying Sword DnD full body illustration, Small construct, unaligned, armed with Longsword, sickly green tinted, poison-resistant, mind-shielded, blank expressionless eyes, blind but blindsight perception, abilities: Antimagic Susceptibility, False Appearance"
+  },
+  {
+    "slug": "giant-badger",
+    "name": "Giant Badger",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Giant Badger DnD full body illustration, Medium beast, unaligned, armed with Multiattack, Bite, Claws, darkvision eyes adapted for the dark, abilities: Keen Smell"
+  },
+  {
+    "slug": "giant-bat",
+    "name": "Giant Bat",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Giant Bat DnD full body illustration, Large beast, unaligned, armed with Bite, blind but blindsight perception, abilities: Echolocation, Keen Hearing"
+  },
+  {
+    "slug": "giant-centipede",
+    "name": "Giant Centipede",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Giant Centipede DnD full body illustration, Small beast, unaligned, armed with Bite, blind but blindsight perception"
+  },
+  {
+    "slug": "giant-frog",
+    "name": "Giant Frog",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Giant Frog DnD full body illustration, Medium beast, unaligned, armed with Bite, Swallow, darkvision eyes adapted for the dark, abilities: Amphibious, Standing Leap"
+  },
+  {
+    "slug": "giant-lizard",
+    "name": "Giant Lizard",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Giant Lizard DnD full body illustration, Large beast, unaligned, armed with Bite, darkvision eyes adapted for the dark"
+  },
+  {
+    "slug": "giant-owl",
+    "name": "Giant Owl",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Giant Owl DnD full body illustration, Large beast, neutral, armed with Talons, darkvision eyes adapted for the dark, abilities: Flyby, Keen Hearing and Sight"
+  },
+  {
+    "slug": "giant-poisonous-snake",
+    "name": "Giant Poisonous Snake",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Giant Poisonous Snake DnD full body illustration, Medium beast, unaligned, armed with Bite, blind but blindsight perception"
+  },
+  {
+    "slug": "giant-wolf-spider",
+    "name": "Giant Wolf Spider",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Giant Wolf Spider DnD full body illustration, Medium beast, unaligned, armed with Bite, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Spider Climb, Web Sense, Web Walker"
+  },
+  {
+    "slug": "goblin",
+    "name": "Goblin",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Goblin DnD full body illustration, Small goblinoid humanoid, neutral evil, armed with Scimitar, Shortbow, darkvision eyes adapted for the dark, abilities: Nimble Escape"
+  },
+  {
+    "slug": "grimlock",
+    "name": "Grimlock",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Grimlock DnD full body illustration, Medium grimlock humanoid, neutral evil, armed with Spiked Bone Club, blind but blindsight perception, abilities: Blind Senses, Keen Hearing and Smell, Stone Camouflage"
+  },
+  {
+    "slug": "panther",
+    "name": "Panther",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Panther DnD full body illustration, Medium beast, unaligned, armed with Bite, Claw, abilities: Keen Smell, Pounce"
+  },
+  {
+    "slug": "pseudodragon",
+    "name": "Pseudodragon",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Pseudodragon DnD full body illustration, Tiny dragon, neutral good, armed with Bite, Sting, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Keen Senses, Magic Resistance, Limited Telepathy"
+  },
+  {
+    "slug": "riding-horse",
+    "name": "Riding Horse",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Riding Horse DnD full body illustration, Large beast, unaligned, armed with Hooves"
+  },
+  {
+    "slug": "skeleton",
+    "name": "Skeleton",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Skeleton DnD full body illustration, Medium undead, lawful evil, armed with Shortsword, Shortbow, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark"
+  },
+  {
+    "slug": "sprite",
+    "name": "Sprite",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Sprite DnD full body illustration, Tiny fey, neutral good, armed with Longsword, Shortbow, Heart Sight, Invisibility"
+  },
+  {
+    "slug": "steam-mephit",
+    "name": "Steam Mephit",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Steam Mephit DnD full body illustration, Small elemental, neutral evil, armed with Claws, Steam Breath, fire-resistant, flame-scarred hide, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Death Burst, Innate Spellcasting"
+  },
+  {
+    "slug": "swarm-of-bats",
+    "name": "Swarm of Bats",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Swarm of Bats DnD full body illustration, Medium swarm of Tiny beasts, unaligned, armed with Bites, blind but blindsight perception, abilities: Echolocation, Keen Hearing, Swarm"
+  },
+  {
+    "slug": "swarm-of-rats",
+    "name": "Swarm of Rats",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Swarm of Rats DnD full body illustration, Medium swarm of Tiny beasts, unaligned, armed with Bites, darkvision eyes adapted for the dark, abilities: Keen Smell, Swarm"
+  },
+  {
+    "slug": "swarm-of-ravens",
+    "name": "Swarm of Ravens",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Swarm of Ravens DnD full body illustration, Medium swarm of Tiny beasts, unaligned, armed with Beaks, abilities: Swarm"
+  },
+  {
+    "slug": "violet-fungus",
+    "name": "Violet Fungus",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Violet Fungus DnD full body illustration, Medium plant, unaligned, armed with Multiattack, Rotting Touch, blind but blindsight perception, abilities: False Appearance"
+  },
+  {
+    "slug": "wolf",
+    "name": "Wolf",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Wolf DnD full body illustration, Medium beast, unaligned, armed with Bite, abilities: Keen Hearing and Smell, Pack Tactics"
+  },
+  {
+    "slug": "zombie",
+    "name": "Zombie",
+    "challenge_rating": 0.25,
+    "prompt": "Portrait of a Zombie DnD full body illustration, Medium undead, neutral evil, armed with Slam, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Undead Fortitude"
+  },
+  {
+    "slug": "ape",
+    "name": "Ape",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Ape DnD full body illustration, Medium beast, unaligned, armed with Multiattack, Fist, Rock"
+  },
+  {
+    "slug": "black-bear",
+    "name": "Black Bear",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Black Bear DnD full body illustration, Medium beast, unaligned, armed with Multiattack, Bite, Claws, abilities: Keen Smell"
+  },
+  {
+    "slug": "cockatrice",
+    "name": "Cockatrice",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Cockatrice DnD full body illustration, Small monstrosity, unaligned, armed with Bite, darkvision eyes adapted for the dark"
+  },
+  {
+    "slug": "crocodile",
+    "name": "Crocodile",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Crocodile DnD full body illustration, Large beast, unaligned, armed with Bite, abilities: Hold Breath"
+  },
+  {
+    "slug": "darkmantle",
+    "name": "Darkmantle",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Darkmantle DnD full body illustration, Small monstrosity, unaligned, armed with Crush, Darkness Aura, blind but blindsight perception, abilities: Echolocation, False Appearance"
+  },
+  {
+    "slug": "deep-gnome-svirfneblin",
+    "name": "Deep Gnome (Svirfneblin)",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Deep Gnome (Svirfneblin) DnD full body illustration, Small gnome humanoid, neutral good, armed with War Pick, Poisoned Dart, darkvision eyes adapted for the dark, abilities: Stone Camouflage, Gnome Cunning, Innate Spellcasting"
+  },
+  {
+    "slug": "dust-mephit",
+    "name": "Dust Mephit",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Dust Mephit DnD full body illustration, Small elemental, neutral evil, armed with Claws, Blinding Breath, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Death Burst, Innate Spellcasting"
+  },
+  {
+    "slug": "giant-goat",
+    "name": "Giant Goat",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Giant Goat DnD full body illustration, Large beast, unaligned, armed with Ram, abilities: Charge, Sure-Footed"
+  },
+  {
+    "slug": "giant-sea-horse",
+    "name": "Giant Sea Horse",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Giant Sea Horse DnD full body illustration, Large beast, unaligned, armed with Ram, abilities: Charge, Water Breathing"
+  },
+  {
+    "slug": "giant-wasp",
+    "name": "Giant Wasp",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Giant Wasp DnD full body illustration, Medium beast, unaligned, armed with Sting"
+  },
+  {
+    "slug": "gnoll",
+    "name": "Gnoll",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Gnoll DnD full body illustration, Medium gnoll humanoid, chaotic evil, armed with Bite, Spear, Longbow, darkvision eyes adapted for the dark, abilities: Rampage"
+  },
+  {
+    "slug": "gray-ooze",
+    "name": "Gray Ooze",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Gray Ooze DnD full body illustration, Medium ooze, unaligned, armed with Pseudopod, blind but blindsight perception, abilities: Amorphous, Corrode Metal, False Appearance"
+  },
+  {
+    "slug": "hobgoblin",
+    "name": "Hobgoblin",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Hobgoblin DnD full body illustration, Medium goblinoid humanoid, lawful evil, armed with Longsword, Longbow, darkvision eyes adapted for the dark, abilities: Martial Advantage"
+  },
+  {
+    "slug": "ice-mephit",
+    "name": "Ice Mephit",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Ice Mephit DnD full body illustration, Small elemental, neutral evil, armed with Claws, Frost Breath, frost-hardened skin, cold-immune, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Death Burst, False Appearance, Innate Spellcasting"
+  },
+  {
+    "slug": "lizardfolk",
+    "name": "Lizardfolk",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Lizardfolk DnD full body illustration, Medium lizardfolk humanoid, neutral, armed with Multiattack, Bite, Heavy Club, Javelin, Spiked Shield, abilities: Hold Breath"
+  },
+  {
+    "slug": "magma-mephit",
+    "name": "Magma Mephit",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Magma Mephit DnD full body illustration, Small elemental, neutral evil, armed with Claws, Fire Breath, fire-resistant, flame-scarred hide, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Death Burst, False Appearance, Innate Spellcasting"
+  },
+  {
+    "slug": "magmin",
+    "name": "Magmin",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Magmin DnD full body illustration, Small elemental, chaotic neutral, armed with Touch, fire-resistant, flame-scarred hide, darkvision eyes adapted for the dark, abilities: Death Burst, Ignited Illumination"
+  },
+  {
+    "slug": "orc",
+    "name": "Orc",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Orc DnD full body illustration, Medium orc humanoid, chaotic evil, armed with Greataxe, Javelin, darkvision eyes adapted for the dark, abilities: Aggressive"
+  },
+  {
+    "slug": "reef-shark",
+    "name": "Reef Shark",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Reef Shark DnD full body illustration, Medium beast, unaligned, armed with Bite, blind but blindsight perception, abilities: Pack Tactics, Water Breathing"
+  },
+  {
+    "slug": "rust-monster",
+    "name": "Rust Monster",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Rust Monster DnD full body illustration, Medium monstrosity, unaligned, armed with Bite, Antennae, darkvision eyes adapted for the dark, abilities: Iron Scent, Rust Metal"
+  },
+  {
+    "slug": "sahuagin",
+    "name": "Sahuagin",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Sahuagin DnD full body illustration, Medium sahuagin humanoid, lawful evil, armed with Multiattack, Bite, Claws, Spear, darkvision eyes adapted for the dark, abilities: Blood Frenzy, Limited Amphibiousness, Shark Telepathy"
+  },
+  {
+    "slug": "satyr",
+    "name": "Satyr",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Satyr DnD full body illustration, Medium fey, chaotic neutral, armed with Ram, Shortsword, Shortbow, abilities: Magic Resistance"
+  },
+  {
+    "slug": "scout",
+    "name": "Scout",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Scout DnD full body illustration, Medium any race humanoid, any alignment, armed with Multiattack, Shortsword, Longbow, abilities: Keen Hearing and Sight"
+  },
+  {
+    "slug": "shadow",
+    "name": "Shadow",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Shadow DnD full body illustration, Medium undead, chaotic evil, armed with Strength Drain, shadowed by necrotic energy, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Amorphous, Shadow Stealth, Sunlight Weakness"
+  },
+  {
+    "slug": "swarm-of-beetles",
+    "name": "Swarm of Beetles",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Swarm of Beetles DnD full body illustration, Medium swarm of Tiny beasts, unaligned, armed with Bites, blind but blindsight perception, abilities: Swarm"
+  },
+  {
+    "slug": "swarm-of-centipedes",
+    "name": "Swarm of Centipedes",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Swarm of Centipedes DnD full body illustration, Medium swarm of Tiny beasts, unaligned, armed with Bites, blind but blindsight perception, abilities: Swarm"
+  },
+  {
+    "slug": "swarm-of-insects",
+    "name": "Swarm of Insects",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Swarm of Insects DnD full body illustration, Medium swarm of Tiny beasts, unaligned, armed with Bites, blind but blindsight perception, abilities: Swarm"
+  },
+  {
+    "slug": "swarm-of-spiders",
+    "name": "Swarm of Spiders",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Swarm of Spiders DnD full body illustration, Medium swarm of Tiny beasts, unaligned, armed with Bites, blind but blindsight perception, abilities: Swarm, Spider Climb, Web Sense, Web Walker"
+  },
+  {
+    "slug": "swarm-of-wasps",
+    "name": "Swarm of Wasps",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Swarm of Wasps DnD full body illustration, Medium swarm of Tiny beasts, unaligned, armed with Bites, blind but blindsight perception, abilities: Swarm"
+  },
+  {
+    "slug": "thug",
+    "name": "Thug",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Thug DnD full body illustration, Medium any race humanoid, any non-good alignment, armed with Multiattack, Mace, Heavy Crossbow, abilities: Pack Tactics"
+  },
+  {
+    "slug": "warhorse",
+    "name": "Warhorse",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Warhorse DnD full body illustration, Large beast, unaligned, armed with Hooves, abilities: Trampling Charge"
+  },
+  {
+    "slug": "warhorse-skeleton",
+    "name": "Warhorse Skeleton",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Warhorse Skeleton DnD full body illustration, Large undead, lawful evil, armed with Hooves, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark"
+  },
+  {
+    "slug": "worg",
+    "name": "Worg",
+    "challenge_rating": 0.5,
+    "prompt": "Portrait of a Worg DnD full body illustration, Large monstrosity, neutral evil, armed with Bite, darkvision eyes adapted for the dark, abilities: Keen Hearing and Smell"
+  },
+  {
+    "slug": "animated-armor",
+    "name": "Animated Armor",
+    "challenge_rating": 1.0,
+    "prompt": "Portrait of a Animated Armor DnD full body illustration, Medium construct, unaligned, armed with Multiattack, Slam, sickly green tinted, poison-resistant, mind-shielded, blank expressionless eyes, blind but blindsight perception, abilities: Antimagic Susceptibility, False Appearance"
+  },
+  {
+    "slug": "brass-dragon-wyrmling",
+    "name": "Brass Dragon Wyrmling",
+    "challenge_rating": 1.0,
+    "prompt": "Portrait of a Brass Dragon Wyrmling DnD full body illustration, Medium dragon, chaotic good, armed with Bite, Breath Weapons, fire-resistant, flame-scarred hide, darkvision eyes adapted for the dark, blind but blindsight perception"
+  },
+  {
+    "slug": "brown-bear",
+    "name": "Brown Bear",
+    "challenge_rating": 1.0,
+    "prompt": "Portrait of a Brown Bear DnD full body illustration, Large beast, unaligned, armed with Multiattack, Bite, Claws, abilities: Keen Smell"
+  },
+  {
+    "slug": "bugbear",
+    "name": "Bugbear",
+    "challenge_rating": 1.0,
+    "prompt": "Portrait of a Bugbear DnD full body illustration, Medium goblinoid humanoid, chaotic evil, armed with Morningstar, Javelin, darkvision eyes adapted for the dark, abilities: Brute, Surprise Attack"
+  },
+  {
+    "slug": "copper-dragon-wyrmling",
+    "name": "Copper Dragon Wyrmling",
+    "challenge_rating": 1.0,
+    "prompt": "Portrait of a Copper Dragon Wyrmling DnD full body illustration, Medium dragon, chaotic good, armed with Bite, Breath Weapons, acid-etched, corroded surface, darkvision eyes adapted for the dark, blind but blindsight perception"
+  },
+  {
+    "slug": "death-dog",
+    "name": "Death Dog",
+    "challenge_rating": 1.0,
+    "prompt": "Portrait of a Death Dog DnD full body illustration, Medium monstrosity, neutral evil, armed with Multiattack, Bite, darkvision eyes adapted for the dark, abilities: Two-Headed"
+  },
+  {
+    "slug": "dire-wolf",
+    "name": "Dire Wolf",
+    "challenge_rating": 1.0,
+    "prompt": "Portrait of a Dire Wolf DnD full body illustration, Large beast, unaligned, armed with Bite, abilities: Keen Hearing and Smell, Pack Tactics"
+  },
+  {
+    "slug": "dryad",
+    "name": "Dryad",
+    "challenge_rating": 1.0,
+    "prompt": "Portrait of a Dryad DnD full body illustration, Medium fey, neutral, armed with Club, Fey Charm, darkvision eyes adapted for the dark, abilities: Innate Spellcasting, Magic Resistance, Speak with Beasts and Plants, Tree Stride"
+  },
+  {
+    "slug": "duergar",
+    "name": "Duergar",
+    "challenge_rating": 1.0,
+    "prompt": "Portrait of a Duergar DnD full body illustration, Medium dwarf humanoid, lawful evil, armed with Enlarge, War Pick, Javelin, Invisibility, darkvision eyes adapted for the dark, abilities: Duergar Resilience, Sunlight Sensitivity"
+  },
+  {
+    "slug": "ghoul",
+    "name": "Ghoul",
+    "challenge_rating": 1.0,
+    "prompt": "Portrait of a Ghoul DnD full body illustration, Medium undead, chaotic evil, armed with Bite, Claws, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark"
+  },
+  {
+    "slug": "giant-eagle",
+    "name": "Giant Eagle",
+    "challenge_rating": 1.0,
+    "prompt": "Portrait of a Giant Eagle DnD full body illustration, Large beast, neutral good, armed with Multiattack, Beak, Talons, abilities: Keen Sight"
+  },
+  {
+    "slug": "giant-hyena",
+    "name": "Giant Hyena",
+    "challenge_rating": 1.0,
+    "prompt": "Portrait of a Giant Hyena DnD full body illustration, Large beast, unaligned, armed with Bite, abilities: Rampage"
+  },
+  {
+    "slug": "giant-octopus",
+    "name": "Giant Octopus",
+    "challenge_rating": 1.0,
+    "prompt": "Portrait of a Giant Octopus DnD full body illustration, Large beast, unaligned, armed with Tentacles, Ink Cloud, darkvision eyes adapted for the dark, abilities: Hold Breath, Underwater Camouflage, Water Breathing"
+  },
+  {
+    "slug": "giant-spider",
+    "name": "Giant Spider",
+    "challenge_rating": 1.0,
+    "prompt": "Portrait of a Giant Spider DnD full body illustration, Large beast, unaligned, armed with Bite, Web, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Spider Climb, Web Sense, Web Walker"
+  },
+  {
+    "slug": "giant-toad",
+    "name": "Giant Toad",
+    "challenge_rating": 1.0,
+    "prompt": "Portrait of a Giant Toad DnD full body illustration, Large beast, unaligned, armed with Bite, Swallow, darkvision eyes adapted for the dark, abilities: Amphibious, Standing Leap"
+  },
+  {
+    "slug": "giant-vulture",
+    "name": "Giant Vulture",
+    "challenge_rating": 1.0,
+    "prompt": "Portrait of a Giant Vulture DnD full body illustration, Large beast, neutral evil, armed with Multiattack, Beak, Talons, abilities: Keen Sight and Smell, Pack Tactics"
+  },
+  {
+    "slug": "harpy",
+    "name": "Harpy",
+    "challenge_rating": 1.0,
+    "prompt": "Portrait of a Harpy DnD full body illustration, Medium monstrosity, chaotic evil, armed with Multiattack, Claws, Club, Luring Song"
+  },
+  {
+    "slug": "hippogriff",
+    "name": "Hippogriff",
+    "challenge_rating": 1.0,
+    "prompt": "Portrait of a Hippogriff DnD full body illustration, Large monstrosity, unaligned, armed with Multiattack, Beak, Claws, abilities: Keen Sight"
+  },
+  {
+    "slug": "imp",
+    "name": "Imp",
+    "challenge_rating": 1.0,
+    "prompt": "Portrait of a Imp DnD full body illustration, Tiny devil fiend, lawful evil, armed with Sting (Bite in Beast Form), Invisibility, fire-resistant, flame-scarred hide, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Shapechanger, Devil's Sight, Magic Resistance"
+  },
+  {
+    "slug": "lion",
+    "name": "Lion",
+    "challenge_rating": 1.0,
+    "prompt": "Portrait of a Lion DnD full body illustration, Large beast, unaligned, armed with Bite, Claw, abilities: Keen Smell, Pack Tactics, Pounce, Running Leap"
+  },
+  {
+    "slug": "quasit",
+    "name": "Quasit",
+    "challenge_rating": 1.0,
+    "prompt": "Portrait of a Quasit DnD full body illustration, Tiny demon fiend, chaotic evil, armed with Claw (Bite in Beast Form), Scare, Invisibility, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Shapechanger, Magic Resistance"
+  },
+  {
+    "slug": "specter",
+    "name": "Specter",
+    "challenge_rating": 1.0,
+    "prompt": "Portrait of a Specter DnD full body illustration, Medium undead, chaotic evil, armed with Life Drain, shadowed by necrotic energy, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Incorporeal Movement, Sunlight Sensitivity"
+  },
+  {
+    "slug": "spy",
+    "name": "Spy",
+    "challenge_rating": 1.0,
+    "prompt": "Portrait of a Spy DnD full body illustration, Medium any race humanoid, any alignment, armed with Multiattack, Shortsword, Hand Crossbow, abilities: Cunning Action, Sneak Attack (1/Turn)"
+  },
+  {
+    "slug": "swarm-of-quippers",
+    "name": "Swarm of Quippers",
+    "challenge_rating": 1.0,
+    "prompt": "Portrait of a Swarm of Quippers DnD full body illustration, Medium swarm of Tiny beasts, unaligned, armed with Bites, darkvision eyes adapted for the dark, abilities: Blood Frenzy, Swarm, Water Breathing"
+  },
+  {
+    "slug": "tiger",
+    "name": "Tiger",
+    "challenge_rating": 1.0,
+    "prompt": "Portrait of a Tiger DnD full body illustration, Large beast, unaligned, armed with Bite, Claw, darkvision eyes adapted for the dark, abilities: Keen Smell, Pounce"
+  },
+  {
+    "slug": "ankheg",
+    "name": "Ankheg",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Ankheg DnD full body illustration, Large monstrosity, unaligned, armed with Bite, Acid Spray, darkvision eyes adapted for the dark, tremorsense antennae or vibration-sensitive organs"
+  },
+  {
+    "slug": "awakened-tree",
+    "name": "Awakened Tree",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Awakened Tree DnD full body illustration, Huge plant, unaligned, armed with Slam, abilities: False Appearance"
+  },
+  {
+    "slug": "azer",
+    "name": "Azer",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Azer DnD full body illustration, Medium elemental, lawful neutral, armed with Warhammer, fire-resistant, flame-scarred hide, sickly green tinted, poison-resistant, abilities: Heated Body, Heated Weapons, Illumination"
+  },
+  {
+    "slug": "bandit-captain",
+    "name": "Bandit Captain",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Bandit Captain DnD full body illustration, Medium any race humanoid, any non-lawful alignment, armed with Multiattack, Scimitar, Dagger"
+  },
+  {
+    "slug": "berserker",
+    "name": "Berserker",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Berserker DnD full body illustration, Medium any race humanoid, any chaotic alignment, armed with Greataxe, abilities: Reckless"
+  },
+  {
+    "slug": "black-dragon-wyrmling",
+    "name": "Black Dragon Wyrmling",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Black Dragon Wyrmling DnD full body illustration, Medium dragon, chaotic evil, armed with Bite, Acid Breath, acid-etched, corroded surface, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Amphibious"
+  },
+  {
+    "slug": "bronze-dragon-wyrmling",
+    "name": "Bronze Dragon Wyrmling",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Bronze Dragon Wyrmling DnD full body illustration, Medium dragon, lawful good, armed with Bite, Breath Weapons, lightning-scarred, crackling with electricity, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Amphibious"
+  },
+  {
+    "slug": "centaur",
+    "name": "Centaur",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Centaur DnD full body illustration, Large monstrosity, neutral good, armed with Multiattack, Pike, Hooves, Longbow, abilities: Charge"
+  },
+  {
+    "slug": "cult-fanatic",
+    "name": "Cult Fanatic",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Cult Fanatic DnD full body illustration, Medium any race humanoid, any non-good alignment, armed with Multiattack, Dagger, abilities: Dark Devotion, Spellcasting"
+  },
+  {
+    "slug": "druid",
+    "name": "Druid",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Druid DnD full body illustration, Medium any race humanoid, any alignment, armed with Quarterstaff, abilities: Spellcasting"
+  },
+  {
+    "slug": "ettercap",
+    "name": "Ettercap",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Ettercap DnD full body illustration, Medium monstrosity, neutral evil, armed with Multiattack, Bite, Claws, Web, darkvision eyes adapted for the dark, abilities: Spider Climb, Web Sense, Web Walker"
+  },
+  {
+    "slug": "gargoyle",
+    "name": "Gargoyle",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Gargoyle DnD full body illustration, Medium elemental, chaotic evil, armed with Multiattack, Bite, Claws, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: False Appearance"
+  },
+  {
+    "slug": "gelatinous-cube",
+    "name": "Gelatinous Cube",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Gelatinous Cube DnD full body illustration, Large ooze, unaligned, armed with Pseudopod, Engulf, blind but blindsight perception, abilities: Ooze Cube, Transparent"
+  },
+  {
+    "slug": "ghast",
+    "name": "Ghast",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Ghast DnD full body illustration, Medium undead, chaotic evil, armed with Bite, Claws, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Stench, Turn Defiance"
+  },
+  {
+    "slug": "giant-boar",
+    "name": "Giant Boar",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Giant Boar DnD full body illustration, Large beast, unaligned, armed with Tusk, abilities: Charge, Relentless"
+  },
+  {
+    "slug": "giant-constrictor-snake",
+    "name": "Giant Constrictor Snake",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Giant Constrictor Snake DnD full body illustration, Huge beast, unaligned, armed with Bite, Constrict, blind but blindsight perception"
+  },
+  {
+    "slug": "giant-elk",
+    "name": "Giant Elk",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Giant Elk DnD full body illustration, Huge beast, unaligned, armed with Ram, Hooves, abilities: Charge"
+  },
+  {
+    "slug": "gibbering-mouther",
+    "name": "Gibbering Mouther",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Gibbering Mouther DnD full body illustration, Medium aberration, neutral, armed with Multiattack, Bites, Blinding Spittle, darkvision eyes adapted for the dark, abilities: Aberrant Ground, Gibbering"
+  },
+  {
+    "slug": "green-dragon-wyrmling",
+    "name": "Green Dragon Wyrmling",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Green Dragon Wyrmling DnD full body illustration, Medium dragon, lawful evil, armed with Bite, Poison Breath, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Amphibious"
+  },
+  {
+    "slug": "grick",
+    "name": "Grick",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Grick DnD full body illustration, Medium monstrosity, neutral, armed with Multiattack, Tentacles, Beak, darkvision eyes adapted for the dark, abilities: Stone Camouflage"
+  },
+  {
+    "slug": "griffon",
+    "name": "Griffon",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Griffon DnD full body illustration, Large monstrosity, unaligned, armed with Multiattack, Beak, Claws, darkvision eyes adapted for the dark, abilities: Keen Sight"
+  },
+  {
+    "slug": "hunter-shark",
+    "name": "Hunter Shark",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Hunter Shark DnD full body illustration, Large beast, unaligned, armed with Bite, darkvision eyes adapted for the dark, abilities: Blood Frenzy, Water Breathing"
+  },
+  {
+    "slug": "merrow",
+    "name": "Merrow",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Merrow DnD full body illustration, Large monstrosity, chaotic evil, armed with Multiattack, Bite, Claws, Harpoon, darkvision eyes adapted for the dark, abilities: Amphibious"
+  },
+  {
+    "slug": "mimic",
+    "name": "Mimic",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Mimic DnD full body illustration, Medium shapechanger monstrosity, neutral, armed with Pseudopod, Bite, acid-etched, corroded surface, darkvision eyes adapted for the dark, abilities: Shapechanger, Adhesive (Object Form Only), False Appearance (Object Form Only), Grappler"
+  },
+  {
+    "slug": "minotaur-skeleton",
+    "name": "Minotaur Skeleton",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Minotaur Skeleton DnD full body illustration, Large undead, lawful evil, armed with Greataxe, Gore, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Charge"
+  },
+  {
+    "slug": "ochre-jelly",
+    "name": "Ochre Jelly",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Ochre Jelly DnD full body illustration, Large ooze, unaligned, armed with Pseudopod, lightning-scarred, crackling with electricity, blade-resistant scales or hide, blind but blindsight perception, abilities: Amorphous, Spider Climb"
+  },
+  {
+    "slug": "ogre",
+    "name": "Ogre",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Ogre DnD full body illustration, Large giant, chaotic evil, armed with Greatclub, Javelin, darkvision eyes adapted for the dark"
+  },
+  {
+    "slug": "ogre-zombie",
+    "name": "Ogre Zombie",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Ogre Zombie DnD full body illustration, Large undead, neutral evil, armed with Morningstar, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Undead Fortitude"
+  },
+  {
+    "slug": "pegasus",
+    "name": "Pegasus",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Pegasus DnD full body illustration, Large celestial, chaotic good, armed with Hooves"
+  },
+  {
+    "slug": "plesiosaurus",
+    "name": "Plesiosaurus",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Plesiosaurus DnD full body illustration, Large beast, unaligned, armed with Bite, abilities: Hold Breath"
+  },
+  {
+    "slug": "polar-bear",
+    "name": "Polar Bear",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Polar Bear DnD full body illustration, Large beast, unaligned, armed with Multiattack, Bite, Claws, abilities: Keen Smell"
+  },
+  {
+    "slug": "priest",
+    "name": "Priest",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Priest DnD full body illustration, Medium any race humanoid, any alignment, armed with Mace, abilities: Divine Eminence, Spellcasting"
+  },
+  {
+    "slug": "rhinoceros",
+    "name": "Rhinoceros",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Rhinoceros DnD full body illustration, Large beast, unaligned, armed with Gore, abilities: Charge"
+  },
+  {
+    "slug": "rug-of-smothering",
+    "name": "Rug of Smothering",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Rug of Smothering DnD full body illustration, Large construct, unaligned, armed with Smother, sickly green tinted, poison-resistant, mind-shielded, blank expressionless eyes, blind but blindsight perception, abilities: Antimagic Susceptibility, Damage Transfer, False Appearance"
+  },
+  {
+    "slug": "saber-toothed-tiger",
+    "name": "Saber-Toothed Tiger",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Saber-Toothed Tiger DnD full body illustration, Large beast, unaligned, armed with Bite, Claw, abilities: Keen Smell, Pounce"
+  },
+  {
+    "slug": "sea-hag",
+    "name": "Sea Hag",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Sea Hag DnD full body illustration, Medium fey, chaotic evil, armed with Claws, Death Glare, Illusory Appearance, darkvision eyes adapted for the dark, abilities: Amphibious, Horrific Appearance"
+  },
+  {
+    "slug": "silver-dragon-wyrmling",
+    "name": "Silver Dragon Wyrmling",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Silver Dragon Wyrmling DnD full body illustration, Medium dragon, lawful good, armed with Bite, Breath Weapons, frost-hardened skin, cold-immune, darkvision eyes adapted for the dark, blind but blindsight perception"
+  },
+  {
+    "slug": "swarm-of-poisonous-snakes",
+    "name": "Swarm of Poisonous Snakes",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Swarm of Poisonous Snakes DnD full body illustration, Medium swarm of Tiny beasts, unaligned, armed with Bites, blind but blindsight perception, abilities: Swarm"
+  },
+  {
+    "slug": "wererat-human",
+    "name": "Wererat, Human Form",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Wererat, Human Form DnD full body illustration, Medium human humanoid, lawful evil, armed with Multiattack, Shortsword, Hand Crossbow, abilities: Shapechanger, Keen Smell"
+  },
+  {
+    "slug": "wererat-hybrid",
+    "name": "Wererat, Hybrid Form",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Wererat, Hybrid Form DnD full body illustration, Medium human humanoid, lawful evil, armed with Multiattack, Bite, Shortsword, Hand Crossbow, abilities: Shapechanger, Keen Smell"
+  },
+  {
+    "slug": "wererat-rat",
+    "name": "Wererat, Rat Form",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Wererat, Rat Form DnD full body illustration, Medium human humanoid, lawful evil, armed with Bite, darkvision eyes adapted for the dark, abilities: Shapechanger, Keen Smell"
+  },
+  {
+    "slug": "white-dragon-wyrmling",
+    "name": "White Dragon Wyrmling",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a White Dragon Wyrmling DnD full body illustration, Medium dragon, chaotic evil, armed with Bite, Cold Breath, frost-hardened skin, cold-immune, darkvision eyes adapted for the dark, blind but blindsight perception"
+  },
+  {
+    "slug": "will-o-wisp",
+    "name": "Will-o'-Wisp",
+    "challenge_rating": 2.0,
+    "prompt": "Portrait of a Will-o'-Wisp DnD full body illustration, Tiny undead, chaotic evil, armed with Shock, Invisibility, lightning-scarred, crackling with electricity, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Consume Life, Ephemeral, Incorporeal Movement, Variable Illumination"
+  },
+  {
+    "slug": "basilisk",
+    "name": "Basilisk",
+    "challenge_rating": 3.0,
+    "prompt": "Portrait of a Basilisk DnD full body illustration, Medium monstrosity, unaligned, armed with Bite, darkvision eyes adapted for the dark, abilities: Petrifying Gaze"
+  },
+  {
+    "slug": "bearded-devil",
+    "name": "Bearded Devil",
+    "challenge_rating": 3.0,
+    "prompt": "Portrait of a Bearded Devil DnD full body illustration, Medium devil fiend, lawful evil, armed with Multiattack, Beard, Glaive, fire-resistant, flame-scarred hide, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Devil's Sight, Magic Resistance, Steadfast"
+  },
+  {
+    "slug": "blue-dragon-wyrmling",
+    "name": "Blue Dragon Wyrmling",
+    "challenge_rating": 3.0,
+    "prompt": "Portrait of a Blue Dragon Wyrmling DnD full body illustration, Medium dragon, lawful evil, armed with Bite, Lightning Breath, lightning-scarred, crackling with electricity, darkvision eyes adapted for the dark, blind but blindsight perception"
+  },
+  {
+    "slug": "doppelganger",
+    "name": "Doppelganger",
+    "challenge_rating": 3.0,
+    "prompt": "Portrait of a Doppelganger DnD full body illustration, Medium shapechanger monstrosity, unaligned, armed with Multiattack, Slam, Read Thoughts, darkvision eyes adapted for the dark, abilities: Shapechanger, Ambusher, Surprise Attack"
+  },
+  {
+    "slug": "giant-scorpion",
+    "name": "Giant Scorpion",
+    "challenge_rating": 3.0,
+    "prompt": "Portrait of a Giant Scorpion DnD full body illustration, Large beast, unaligned, armed with Claw, Multiattack, Sting, blind but blindsight perception"
+  },
+  {
+    "slug": "gold-dragon-wyrmling",
+    "name": "Gold Dragon Wyrmling",
+    "challenge_rating": 3.0,
+    "prompt": "Portrait of a Gold Dragon Wyrmling DnD full body illustration, Medium dragon, lawful good, armed with Bite, Breath Weapons, fire-resistant, flame-scarred hide, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Amphibious"
+  },
+  {
+    "slug": "green-hag",
+    "name": "Green Hag",
+    "challenge_rating": 3.0,
+    "prompt": "Portrait of a Green Hag DnD full body illustration, Medium fey, neutral evil, armed with Claws, Illusory Appearance, Invisible Passage, darkvision eyes adapted for the dark, abilities: Amphibious, Innate Spellcasting, Mimicry"
+  },
+  {
+    "slug": "hell-hound",
+    "name": "Hell Hound",
+    "challenge_rating": 3.0,
+    "prompt": "Portrait of a Hell Hound DnD full body illustration, Medium fiend, lawful evil, armed with Bite, Fire Breath, fire-resistant, flame-scarred hide, darkvision eyes adapted for the dark, abilities: Keen Hearing and Smell, Pack Tactics"
+  },
+  {
+    "slug": "killer-whale",
+    "name": "Killer Whale",
+    "challenge_rating": 3.0,
+    "prompt": "Portrait of a Killer Whale DnD full body illustration, Huge beast, unaligned, armed with Bite, blind but blindsight perception, abilities: Echolocation, Hold Breath, Keen Hearing"
+  },
+  {
+    "slug": "knight",
+    "name": "Knight",
+    "challenge_rating": 3.0,
+    "prompt": "Portrait of a Knight DnD full body illustration, Medium any race humanoid, any alignment, armed with Multiattack, Greatsword, Heavy Crossbow, Leadership, abilities: Brave"
+  },
+  {
+    "slug": "manticore",
+    "name": "Manticore",
+    "challenge_rating": 3.0,
+    "prompt": "Portrait of a Manticore DnD full body illustration, Large monstrosity, lawful evil, armed with Multiattack, Bite, Claw, Tail Spike, darkvision eyes adapted for the dark, abilities: Tail Spike Regrowth"
+  },
+  {
+    "slug": "minotaur",
+    "name": "Minotaur",
+    "challenge_rating": 3.0,
+    "prompt": "Portrait of a Minotaur DnD full body illustration, Large monstrosity, chaotic evil, armed with Greataxe, Gore, darkvision eyes adapted for the dark, abilities: Charge, Labyrinthine Recall, Reckless"
+  },
+  {
+    "slug": "mummy",
+    "name": "Mummy",
+    "challenge_rating": 3.0,
+    "prompt": "Portrait of a Mummy DnD full body illustration, Medium undead, lawful evil, armed with Multiattack, Rotting Fist, Dreadful Glare, shadowed by necrotic energy, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark"
+  },
+  {
+    "slug": "nightmare",
+    "name": "Nightmare",
+    "challenge_rating": 3.0,
+    "prompt": "Portrait of a Nightmare DnD full body illustration, Large fiend, neutral evil, armed with Hooves, Ethereal Stride, fire-resistant, flame-scarred hide, abilities: Confer Fire Resistance, Illumination"
+  },
+  {
+    "slug": "owlbear",
+    "name": "Owlbear",
+    "challenge_rating": 3.0,
+    "prompt": "Portrait of a Owlbear DnD full body illustration, Large monstrosity, unaligned, armed with Multiattack, Beak, Claws, darkvision eyes adapted for the dark, abilities: Keen Sight and Smell"
+  },
+  {
+    "slug": "phase-spider",
+    "name": "Phase Spider",
+    "challenge_rating": 3.0,
+    "prompt": "Portrait of a Phase Spider DnD full body illustration, Large monstrosity, unaligned, armed with Bite, darkvision eyes adapted for the dark, abilities: Ethereal Jaunt, Spider Climb, Web Walker"
+  },
+  {
+    "slug": "veteran",
+    "name": "Veteran",
+    "challenge_rating": 3.0,
+    "prompt": "Portrait of a Veteran DnD full body illustration, Medium any race humanoid, any alignment, armed with Multiattack, Longsword, Shortsword, Heavy Crossbow"
+  },
+  {
+    "slug": "werewolf-human",
+    "name": "Werewolf, Human Form",
+    "challenge_rating": 3.0,
+    "prompt": "Portrait of a Werewolf, Human Form DnD full body illustration, Medium human humanoid, chaotic evil, armed with Multiattack, Spear, abilities: Shapechanger, Keen Hearing and Smell"
+  },
+  {
+    "slug": "werewolf-hybrid",
+    "name": "Werewolf, Hybrid Form",
+    "challenge_rating": 3.0,
+    "prompt": "Portrait of a Werewolf, Hybrid Form DnD full body illustration, Medium human humanoid, chaotic evil, armed with Multiattack, Bite, Claws, abilities: Shapechanger, Keen Hearing and Smell"
+  },
+  {
+    "slug": "werewolf-wolf",
+    "name": "Werewolf, Wolf Form",
+    "challenge_rating": 3.0,
+    "prompt": "Portrait of a Werewolf, Wolf Form DnD full body illustration, Medium human humanoid, chaotic evil, armed with Bite, abilities: Shapechanger, Keen Hearing and Smell"
+  },
+  {
+    "slug": "wight",
+    "name": "Wight",
+    "challenge_rating": 3.0,
+    "prompt": "Portrait of a Wight DnD full body illustration, Medium undead, neutral evil, armed with Multiattack, Life Drain, Longsword, Longbow, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Sunlight Sensitivity"
+  },
+  {
+    "slug": "winter-wolf",
+    "name": "Winter Wolf",
+    "challenge_rating": 3.0,
+    "prompt": "Portrait of a Winter Wolf DnD full body illustration, Large monstrosity, neutral evil, armed with Bite, Cold Breath, frost-hardened skin, cold-immune, abilities: Keen Hearing and Smell, Pack Tactics, Snow Camouflage"
+  },
+  {
+    "slug": "black-pudding",
+    "name": "Black Pudding",
+    "challenge_rating": 4.0,
+    "prompt": "Portrait of a Black Pudding DnD full body illustration, Large ooze, unaligned, armed with Pseudopod, acid-etched, corroded surface, frost-hardened skin, cold-immune, lightning-scarred, crackling with electricity, blade-resistant scales or hide, blind but blindsight perception, abilities: Amorphous, Corrosive Form, Spider Climb"
+  },
+  {
+    "slug": "chuul",
+    "name": "Chuul",
+    "challenge_rating": 4.0,
+    "prompt": "Portrait of a Chuul DnD full body illustration, Large aberration, chaotic evil, armed with Multiattack, Pincer, Tentacles, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Amphibious, Sense Magic"
+  },
+  {
+    "slug": "couatl",
+    "name": "Couatl",
+    "challenge_rating": 4.0,
+    "prompt": "Portrait of a Couatl DnD full body illustration, Medium celestial, lawful good, armed with Bite, Constrict, Change Shape, mind-shielded, blank expressionless eyes, all-seeing truesight gaze, abilities: Innate Spellcasting, Magic Weapons, Shielded Mind"
+  },
+  {
+    "slug": "elephant",
+    "name": "Elephant",
+    "challenge_rating": 4.0,
+    "prompt": "Portrait of a Elephant DnD full body illustration, Huge beast, unaligned, armed with Gore, Stomp, abilities: Trampling Charge"
+  },
+  {
+    "slug": "ettin",
+    "name": "Ettin",
+    "challenge_rating": 4.0,
+    "prompt": "Portrait of a Ettin DnD full body illustration, Large giant, chaotic evil, armed with Multiattack, Battleaxe, Morningstar, darkvision eyes adapted for the dark, abilities: Two Heads, Wakeful"
+  },
+  {
+    "slug": "ghost",
+    "name": "Ghost",
+    "challenge_rating": 4.0,
+    "prompt": "Portrait of a Ghost DnD full body illustration, Medium undead, any alignment, armed with Withering Touch, Etherealness, Horrifying Visage, Possession, frost-hardened skin, cold-immune, shadowed by necrotic energy, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Ethereal Sight, Incorporeal Movement"
+  },
+  {
+    "slug": "lamia",
+    "name": "Lamia",
+    "challenge_rating": 4.0,
+    "prompt": "Portrait of a Lamia DnD full body illustration, Large monstrosity, chaotic evil, armed with Multiattack, Claws, Dagger, Intoxicating Touch, darkvision eyes adapted for the dark, abilities: Innate Spellcasting"
+  },
+  {
+    "slug": "red-dragon-wyrmling",
+    "name": "Red Dragon Wyrmling",
+    "challenge_rating": 4.0,
+    "prompt": "Portrait of a Red Dragon Wyrmling DnD full body illustration, Medium dragon, chaotic evil, armed with Bite, Fire Breath, fire-resistant, flame-scarred hide, darkvision eyes adapted for the dark, blind but blindsight perception"
+  },
+  {
+    "slug": "succubus-incubus",
+    "name": "Succubus/Incubus",
+    "challenge_rating": 4.0,
+    "prompt": "Portrait of a Succubus/Incubus DnD full body illustration, Medium shapechanger fiend, neutral evil, armed with Claw (Fiend Form Only), Charm, Draining Kiss, Etherealness, darkvision eyes adapted for the dark, abilities: Telepathic Bond, Shapechanger"
+  },
+  {
+    "slug": "wereboar-boar",
+    "name": "Wereboar, Boar Form",
+    "challenge_rating": 4.0,
+    "prompt": "Portrait of a Wereboar, Boar Form DnD full body illustration, Medium human humanoid, neutral evil, armed with Tusks, abilities: Shapechanger, Charge (Boar or Hybrid Form Only), Relentless"
+  },
+  {
+    "slug": "wereboar-human",
+    "name": "Wereboar, Human Form",
+    "challenge_rating": 4.0,
+    "prompt": "Portrait of a Wereboar, Human Form DnD full body illustration, Medium human humanoid, neutral evil, armed with Multiattack, Maul, abilities: Shapechanger, Relentless"
+  },
+  {
+    "slug": "wereboar-hybrid",
+    "name": "Wereboar, Hybrid Form",
+    "challenge_rating": 4.0,
+    "prompt": "Portrait of a Wereboar, Hybrid Form DnD full body illustration, Medium human humanoid, neutral evil, armed with Multiattack, Maul, Tusks, abilities: Shapechanger, Charge (Boar or Hybrid Form Only), Relentless"
+  },
+  {
+    "slug": "weretiger-human",
+    "name": "Weretiger, Human Form",
+    "challenge_rating": 4.0,
+    "prompt": "Portrait of a Weretiger, Human Form DnD full body illustration, Medium human humanoid, neutral, armed with Multiattack, Scimitar, Longbow, darkvision eyes adapted for the dark, abilities: Shapechanger, Keen Hearing and Smell"
+  },
+  {
+    "slug": "weretiger-hybrid",
+    "name": "Weretiger, Hybrid Form",
+    "challenge_rating": 4.0,
+    "prompt": "Portrait of a Weretiger, Hybrid Form DnD full body illustration, Medium human humanoid, neutral, armed with Multiattack, Bite, Claw, Scimitar, Longbow, darkvision eyes adapted for the dark, abilities: Shapechanger, Keen Hearing and Smell, Pounce"
+  },
+  {
+    "slug": "weretiger-tiger",
+    "name": "Weretiger, Tiger Form",
+    "challenge_rating": 4.0,
+    "prompt": "Portrait of a Weretiger, Tiger Form DnD full body illustration, Medium human humanoid, neutral, armed with Bite, Claw, darkvision eyes adapted for the dark, abilities: Shapechanger, Keen Hearing and Smell, Pounce"
+  },
+  {
+    "slug": "air-elemental",
+    "name": "Air Elemental",
+    "challenge_rating": 5.0,
+    "prompt": "Portrait of a Air Elemental DnD full body illustration, Large elemental, neutral, armed with Multiattack, Slam, Whirlwind, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Air Form"
+  },
+  {
+    "slug": "barbed-devil",
+    "name": "Barbed Devil",
+    "challenge_rating": 5.0,
+    "prompt": "Portrait of a Barbed Devil DnD full body illustration, Medium devil fiend, lawful evil, armed with Multiattack, Claw, Tail, Hurl Flame, fire-resistant, flame-scarred hide, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Barbed Hide, Devil's Sight, Magic Resistance"
+  },
+  {
+    "slug": "bulette",
+    "name": "Bulette",
+    "challenge_rating": 5.0,
+    "prompt": "Portrait of a Bulette DnD full body illustration, Large monstrosity, unaligned, armed with Bite, Deadly Leap, darkvision eyes adapted for the dark, tremorsense antennae or vibration-sensitive organs, abilities: Standing Leap"
+  },
+  {
+    "slug": "earth-elemental",
+    "name": "Earth Elemental",
+    "challenge_rating": 5.0,
+    "prompt": "Portrait of a Earth Elemental DnD full body illustration, Large elemental, neutral, armed with Multiattack, Slam, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, tremorsense antennae or vibration-sensitive organs, abilities: Earth Glide, Siege Monster"
+  },
+  {
+    "slug": "fire-elemental",
+    "name": "Fire Elemental",
+    "challenge_rating": 5.0,
+    "prompt": "Portrait of a Fire Elemental DnD full body illustration, Large elemental, neutral, armed with Multiattack, Touch, fire-resistant, flame-scarred hide, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Fire Form, Illumination, Water Susceptibility"
+  },
+  {
+    "slug": "flesh-golem",
+    "name": "Flesh Golem",
+    "challenge_rating": 5.0,
+    "prompt": "Portrait of a Flesh Golem DnD full body illustration, Medium construct, neutral, armed with Multiattack, Slam, lightning-scarred, crackling with electricity, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Berserk, Aversion of Fire, Immutable Form, Lightning Absorption, Magic Resistance, Magic Weapons"
+  },
+  {
+    "slug": "giant-crocodile",
+    "name": "Giant Crocodile",
+    "challenge_rating": 5.0,
+    "prompt": "Portrait of a Giant Crocodile DnD full body illustration, Huge beast, unaligned, armed with Multiattack, Bite, Tail, abilities: Hold Breath"
+  },
+  {
+    "slug": "giant-shark",
+    "name": "Giant Shark",
+    "challenge_rating": 5.0,
+    "prompt": "Portrait of a Giant Shark DnD full body illustration, Huge beast, unaligned, armed with Bite, blind but blindsight perception, abilities: Blood Frenzy, Water Breathing"
+  },
+  {
+    "slug": "gladiator",
+    "name": "Gladiator",
+    "challenge_rating": 5.0,
+    "prompt": "Portrait of a Gladiator DnD full body illustration, Medium any race humanoid, any alignment, armed with Multiattack, Spear, Shield Bash, abilities: Brave, Brute"
+  },
+  {
+    "slug": "gorgon",
+    "name": "Gorgon",
+    "challenge_rating": 5.0,
+    "prompt": "Portrait of a Gorgon DnD full body illustration, Large monstrosity, unaligned, armed with Gore, Hooves, Petrifying Breath, darkvision eyes adapted for the dark, abilities: Trampling Charge"
+  },
+  {
+    "slug": "half-red-dragon-veteran",
+    "name": "Half-Red Dragon Veteran",
+    "challenge_rating": 5.0,
+    "prompt": "Portrait of a Half-Red Dragon Veteran DnD full body illustration, Medium human humanoid, any alignment, armed with Multiattack, Longsword, Shortsword, Heavy Crossbow, Fire Breath, darkvision eyes adapted for the dark, blind but blindsight perception"
+  },
+  {
+    "slug": "hill-giant",
+    "name": "Hill Giant",
+    "challenge_rating": 5.0,
+    "prompt": "Portrait of a Hill Giant DnD full body illustration, Huge giant, chaotic evil, armed with Multiattack, Greatclub, Rock"
+  },
+  {
+    "slug": "night-hag",
+    "name": "Night Hag",
+    "challenge_rating": 5.0,
+    "prompt": "Portrait of a Night Hag DnD full body illustration, Medium fiend, neutral evil, armed with Claws (Hag Form Only), Change Shape, Etherealness, Nightmare Haunting, darkvision eyes adapted for the dark, abilities: Innate Spellcasting, Magic Resistance, Night Hag Items"
+  },
+  {
+    "slug": "otyugh",
+    "name": "Otyugh",
+    "challenge_rating": 5.0,
+    "prompt": "Portrait of a Otyugh DnD full body illustration, Large aberration, neutral, armed with Multiattack, Bite, Tentacle, Tentacle Slam, darkvision eyes adapted for the dark, abilities: Limited Telepathy"
+  },
+  {
+    "slug": "roper",
+    "name": "Roper",
+    "challenge_rating": 5.0,
+    "prompt": "Portrait of a Roper DnD full body illustration, Large monstrosity, neutral evil, armed with Multiattack, Bite, Tendril, Reel, darkvision eyes adapted for the dark, abilities: False Appearance, Grasping Tendrils, Spider Climb"
+  },
+  {
+    "slug": "salamander",
+    "name": "Salamander",
+    "challenge_rating": 5.0,
+    "prompt": "Portrait of a Salamander DnD full body illustration, Large elemental, neutral evil, armed with Multiattack, Spear, Tail, fire-resistant, flame-scarred hide, darkvision eyes adapted for the dark, abilities: Heated Body, Heated Weapons"
+  },
+  {
+    "slug": "shambling-mound",
+    "name": "Shambling Mound",
+    "challenge_rating": 5.0,
+    "prompt": "Portrait of a Shambling Mound DnD full body illustration, Large plant, unaligned, armed with Multiattack, Slam, Engulf, lightning-scarred, crackling with electricity, blind but blindsight perception, abilities: Lightning Absorption"
+  },
+  {
+    "slug": "triceratops",
+    "name": "Triceratops",
+    "challenge_rating": 5.0,
+    "prompt": "Portrait of a Triceratops DnD full body illustration, Huge beast, unaligned, armed with Gore, Stomp, abilities: Trampling Charge"
+  },
+  {
+    "slug": "troll",
+    "name": "Troll",
+    "challenge_rating": 5.0,
+    "prompt": "Portrait of a Troll DnD full body illustration, Large giant, chaotic evil, armed with Multiattack, Bite, Claw, darkvision eyes adapted for the dark, abilities: Keen Smell, Regeneration"
+  },
+  {
+    "slug": "unicorn",
+    "name": "Unicorn",
+    "challenge_rating": 5.0,
+    "prompt": "Portrait of a Unicorn DnD full body illustration, Large celestial, lawful good, armed with Multiattack, Hooves, Horn, Healing Touch, Teleport, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Charge, Innate Spellcasting, Magic Resistance, Magic Weapons, legendary: Hooves, Shimmering Shield (Costs 2 Actions), Heal Self (Costs 3 Actions)"
+  },
+  {
+    "slug": "vampire-spawn",
+    "name": "Vampire Spawn",
+    "challenge_rating": 5.0,
+    "prompt": "Portrait of a Vampire Spawn DnD full body illustration, Medium undead, neutral evil, armed with Multiattack, Bite, Claws, darkvision eyes adapted for the dark, abilities: Regeneration, Spider Climb, Vampire Weaknesses"
+  },
+  {
+    "slug": "water-elemental",
+    "name": "Water Elemental",
+    "challenge_rating": 5.0,
+    "prompt": "Portrait of a Water Elemental DnD full body illustration, Large elemental, neutral, armed with Multiattack, Slam, Whelm, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Water Form, Freeze"
+  },
+  {
+    "slug": "werebear-bear",
+    "name": "Werebear, Bear Form",
+    "challenge_rating": 5.0,
+    "prompt": "Portrait of a Werebear, Bear Form DnD full body illustration, Medium human humanoid, neutral good, armed with Multiattack, Bite, Claw, abilities: Shapechanger, Keen Smell"
+  },
+  {
+    "slug": "werebear-human",
+    "name": "Werebear, Human Form",
+    "challenge_rating": 5.0,
+    "prompt": "Portrait of a Werebear, Human Form DnD full body illustration, Medium human humanoid, neutral good, armed with Multiattack, Greataxe, abilities: Shapechanger, Keen Smell"
+  },
+  {
+    "slug": "werebear-hybrid",
+    "name": "Werebear, Hybrid Form",
+    "challenge_rating": 5.0,
+    "prompt": "Portrait of a Werebear, Hybrid Form DnD full body illustration, Medium human humanoid, neutral good, armed with Multiattack, Bite, Claw, Greataxe, abilities: Shapechanger, Keen Smell"
+  },
+  {
+    "slug": "wraith",
+    "name": "Wraith",
+    "challenge_rating": 5.0,
+    "prompt": "Portrait of a Wraith DnD full body illustration, Medium undead, neutral evil, armed with Life Drain, Create Specter, shadowed by necrotic energy, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Incorporeal Movement, Sunlight Sensitivity"
+  },
+  {
+    "slug": "xorn",
+    "name": "Xorn",
+    "challenge_rating": 5.0,
+    "prompt": "Portrait of a Xorn DnD full body illustration, Medium elemental, neutral, armed with Multiattack, Bite, Claw, darkvision eyes adapted for the dark, tremorsense antennae or vibration-sensitive organs, abilities: Earth Glide, Stone Camouflage, Treasure Sense"
+  },
+  {
+    "slug": "chimera",
+    "name": "Chimera",
+    "challenge_rating": 6.0,
+    "prompt": "Portrait of a Chimera DnD full body illustration, Large monstrosity, chaotic evil, armed with Multiattack, Bite, Horns, Claws, Fire Breath, darkvision eyes adapted for the dark"
+  },
+  {
+    "slug": "drider",
+    "name": "Drider",
+    "challenge_rating": 6.0,
+    "prompt": "Portrait of a Drider DnD full body illustration, Large monstrosity, chaotic evil, armed with Multiattack, Bite, Longsword, Longbow, darkvision eyes adapted for the dark, abilities: Fey Ancestry, Innate Spellcasting, Spider Climb, Sunlight Sensitivity, Web Walker"
+  },
+  {
+    "slug": "invisible-stalker",
+    "name": "Invisible Stalker",
+    "challenge_rating": 6.0,
+    "prompt": "Portrait of a Invisible Stalker DnD full body illustration, Medium elemental, neutral, armed with Multiattack, Slam, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Invisibility, Faultless Tracker"
+  },
+  {
+    "slug": "mage",
+    "name": "Mage",
+    "challenge_rating": 6.0,
+    "prompt": "Portrait of a Mage DnD full body illustration, Medium any race humanoid, any alignment, armed with Dagger, abilities: Spellcasting"
+  },
+  {
+    "slug": "mammoth",
+    "name": "Mammoth",
+    "challenge_rating": 6.0,
+    "prompt": "Portrait of a Mammoth DnD full body illustration, Huge beast, unaligned, armed with Gore, Stomp, abilities: Trampling Charge"
+  },
+  {
+    "slug": "medusa",
+    "name": "Medusa",
+    "challenge_rating": 6.0,
+    "prompt": "Portrait of a Medusa DnD full body illustration, Medium monstrosity, lawful evil, armed with Multiattack, Snake Hair, Shortsword, Longbow, darkvision eyes adapted for the dark, abilities: Petrifying Gaze"
+  },
+  {
+    "slug": "vrock",
+    "name": "Vrock",
+    "challenge_rating": 6.0,
+    "prompt": "Portrait of a Vrock DnD full body illustration, Large demon fiend, chaotic evil, armed with Multiattack, Beak, Talons, Spores, Stunning Screech, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Magic Resistance"
+  },
+  {
+    "slug": "wyvern",
+    "name": "Wyvern",
+    "challenge_rating": 6.0,
+    "prompt": "Portrait of a Wyvern DnD full body illustration, Large dragon, unaligned, armed with Multiattack, Bite, Claws, Stinger, darkvision eyes adapted for the dark"
+  },
+  {
+    "slug": "young-brass-dragon",
+    "name": "Young Brass Dragon",
+    "challenge_rating": 6.0,
+    "prompt": "Portrait of a Young Brass Dragon DnD full body illustration, Large dragon, chaotic good, armed with Multiattack, Bite, Claw, Breath Weapons, fire-resistant, flame-scarred hide, darkvision eyes adapted for the dark, blind but blindsight perception"
+  },
+  {
+    "slug": "young-white-dragon",
+    "name": "Young White Dragon",
+    "challenge_rating": 6.0,
+    "prompt": "Portrait of a Young White Dragon DnD full body illustration, Large dragon, chaotic evil, armed with Multiattack, Bite, Claw, Cold Breath, frost-hardened skin, cold-immune, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Ice Walk"
+  },
+  {
+    "slug": "giant-ape",
+    "name": "Giant Ape",
+    "challenge_rating": 7.0,
+    "prompt": "Portrait of a Giant Ape DnD full body illustration, Huge beast, unaligned, armed with Multiattack, Fist, Rock"
+  },
+  {
+    "slug": "oni",
+    "name": "Oni",
+    "challenge_rating": 7.0,
+    "prompt": "Portrait of a Oni DnD full body illustration, Large giant, lawful evil, armed with Multiattack, Claw (Oni Form Only), Glaive, Change Shape, darkvision eyes adapted for the dark, abilities: Innate Spellcasting, Magic Weapons, Regeneration"
+  },
+  {
+    "slug": "shield-guardian",
+    "name": "Shield Guardian",
+    "challenge_rating": 7.0,
+    "prompt": "Portrait of a Shield Guardian DnD full body illustration, Large construct, unaligned, armed with Multiattack, Fist, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Bound, Regeneration, Spell Storing"
+  },
+  {
+    "slug": "stone-giant",
+    "name": "Stone Giant",
+    "challenge_rating": 7.0,
+    "prompt": "Portrait of a Stone Giant DnD full body illustration, Huge giant, neutral, armed with Multiattack, Greatclub, Rock, darkvision eyes adapted for the dark, abilities: Stone Camouflage"
+  },
+  {
+    "slug": "young-black-dragon",
+    "name": "Young Black Dragon",
+    "challenge_rating": 7.0,
+    "prompt": "Portrait of a Young Black Dragon DnD full body illustration, Large dragon, chaotic evil, armed with Multiattack, Bite, Claw, Acid Breath, acid-etched, corroded surface, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Amphibious"
+  },
+  {
+    "slug": "young-copper-dragon",
+    "name": "Young Copper Dragon",
+    "challenge_rating": 7.0,
+    "prompt": "Portrait of a Young Copper Dragon DnD full body illustration, Large dragon, chaotic good, armed with Multiattack, Bite, Claw, Breath Weapons, acid-etched, corroded surface, darkvision eyes adapted for the dark, blind but blindsight perception"
+  },
+  {
+    "slug": "assassin",
+    "name": "Assassin",
+    "challenge_rating": 8.0,
+    "prompt": "Portrait of a Assassin DnD full body illustration, Medium any race humanoid, any non-good alignment, armed with Multiattack, Shortsword, Light Crossbow, abilities: Assassinate, Evasion, Sneak Attack (1/Turn)"
+  },
+  {
+    "slug": "chain-devil",
+    "name": "Chain Devil",
+    "challenge_rating": 8.0,
+    "prompt": "Portrait of a Chain Devil DnD full body illustration, Medium devil fiend, lawful evil, armed with Multiattack, Chain, Animate Chains, fire-resistant, flame-scarred hide, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Devil's Sight, Magic Resistance"
+  },
+  {
+    "slug": "cloaker",
+    "name": "Cloaker",
+    "challenge_rating": 8.0,
+    "prompt": "Portrait of a Cloaker DnD full body illustration, Large aberration, chaotic neutral, armed with Multiattack, Bite, Tail, Moan, Phantasms, darkvision eyes adapted for the dark, abilities: Damage Transfer, False Appearance, Light Sensitivity"
+  },
+  {
+    "slug": "frost-giant",
+    "name": "Frost Giant",
+    "challenge_rating": 8.0,
+    "prompt": "Portrait of a Frost Giant DnD full body illustration, Huge giant, neutral evil, armed with Multiattack, Greataxe, Rock, frost-hardened skin, cold-immune"
+  },
+  {
+    "slug": "hezrou",
+    "name": "Hezrou",
+    "challenge_rating": 8.0,
+    "prompt": "Portrait of a Hezrou DnD full body illustration, Large demon fiend, chaotic evil, armed with Multiattack, Bite, Claws, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Magic Resistance, Stench"
+  },
+  {
+    "slug": "hydra",
+    "name": "Hydra",
+    "challenge_rating": 8.0,
+    "prompt": "Portrait of a Hydra DnD full body illustration, Huge monstrosity, unaligned, armed with Multiattack, Bite, darkvision eyes adapted for the dark, abilities: Hold Breath, Multiple Heads, Reactive Heads, Wakeful"
+  },
+  {
+    "slug": "spirit-naga",
+    "name": "Spirit Naga",
+    "challenge_rating": 8.0,
+    "prompt": "Portrait of a Spirit Naga DnD full body illustration, Large monstrosity, chaotic evil, armed with Bite, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Rejuvenation, Spellcasting"
+  },
+  {
+    "slug": "tyrannosaurus-rex",
+    "name": "Tyrannosaurus Rex",
+    "challenge_rating": 8.0,
+    "prompt": "Portrait of a Tyrannosaurus Rex DnD full body illustration, Huge beast, unaligned, armed with Multiattack, Bite, Tail"
+  },
+  {
+    "slug": "young-bronze-dragon",
+    "name": "Young Bronze Dragon",
+    "challenge_rating": 8.0,
+    "prompt": "Portrait of a Young Bronze Dragon DnD full body illustration, Large dragon, lawful good, armed with Multiattack, Bite, Claw, Breath Weapons, lightning-scarred, crackling with electricity, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Amphibious"
+  },
+  {
+    "slug": "young-green-dragon",
+    "name": "Young Green Dragon",
+    "challenge_rating": 8.0,
+    "prompt": "Portrait of a Young Green Dragon DnD full body illustration, Large dragon, lawful evil, armed with Multiattack, Bite, Claw, Poison Breath, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Amphibious"
+  },
+  {
+    "slug": "bone-devil",
+    "name": "Bone Devil",
+    "challenge_rating": 9.0,
+    "prompt": "Portrait of a Bone Devil DnD full body illustration, Large devil fiend, lawful evil, armed with Multiattack, Claw, Sting, fire-resistant, flame-scarred hide, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Devil's Sight, Magic Resistance"
+  },
+  {
+    "slug": "clay-golem",
+    "name": "Clay Golem",
+    "challenge_rating": 9.0,
+    "prompt": "Portrait of a Clay Golem DnD full body illustration, Large construct, unaligned, armed with Multiattack, Slam, Haste, acid-etched, corroded surface, sickly green tinted, poison-resistant, mind-shielded, blank expressionless eyes, darkvision eyes adapted for the dark, abilities: Acid Absorption, Berserk, Immutable Form, Magic Resistance, Magic Weapons"
+  },
+  {
+    "slug": "cloud-giant",
+    "name": "Cloud Giant",
+    "challenge_rating": 9.0,
+    "prompt": "Portrait of a Cloud Giant DnD full body illustration, Huge giant, neutral good (50%) or neutral evil (50%), armed with Multiattack, Morningstar, Rock, abilities: Keen Smell, Innate Spellcasting"
+  },
+  {
+    "slug": "fire-giant",
+    "name": "Fire Giant",
+    "challenge_rating": 9.0,
+    "prompt": "Portrait of a Fire Giant DnD full body illustration, Huge giant, lawful evil, armed with Multiattack, Greatsword, Rock, fire-resistant, flame-scarred hide"
+  },
+  {
+    "slug": "glabrezu",
+    "name": "Glabrezu",
+    "challenge_rating": 9.0,
+    "prompt": "Portrait of a Glabrezu DnD full body illustration, Large demon fiend, chaotic evil, armed with Multiattack, Pincer, Fist, sickly green tinted, poison-resistant, all-seeing truesight gaze, abilities: Innate Spellcasting, Magic Resistance"
+  },
+  {
+    "slug": "treant",
+    "name": "Treant",
+    "challenge_rating": 9.0,
+    "prompt": "Portrait of a Treant DnD full body illustration, Huge plant, chaotic good, armed with Multiattack, Slam, Rock, Animate Trees, abilities: False Appearance, Siege Monster"
+  },
+  {
+    "slug": "young-blue-dragon",
+    "name": "Young Blue Dragon",
+    "challenge_rating": 9.0,
+    "prompt": "Portrait of a Young Blue Dragon DnD full body illustration, Large dragon, lawful evil, armed with Multiattack, Bite, Claw, Lightning Breath, lightning-scarred, crackling with electricity, darkvision eyes adapted for the dark, blind but blindsight perception"
+  },
+  {
+    "slug": "young-silver-dragon",
+    "name": "Young Silver Dragon",
+    "challenge_rating": 9.0,
+    "prompt": "Portrait of a Young Silver Dragon DnD full body illustration, Large dragon, lawful good, armed with Multiattack, Bite, Claw, Breath Weapons, frost-hardened skin, cold-immune, darkvision eyes adapted for the dark, blind but blindsight perception"
+  },
+  {
+    "slug": "aboleth",
+    "name": "Aboleth",
+    "challenge_rating": 10.0,
+    "prompt": "Portrait of a Aboleth DnD full body illustration, Large aberration, lawful evil, armed with Multiattack, Tentacle, Tail, Enslave, darkvision eyes adapted for the dark, abilities: Amphibious, Mucous Cloud, Probing Telepathy, legendary: Detect, Tail Swipe, Psychic Drain (Costs 2 Actions)"
+  },
+  {
+    "slug": "deva",
+    "name": "Deva",
+    "challenge_rating": 10.0,
+    "prompt": "Portrait of a Deva DnD full body illustration, Medium celestial, lawful good, armed with Multiattack, Mace, Healing Touch, Change Shape, darkvision eyes adapted for the dark, abilities: Angelic Weapons, Innate Spellcasting, Magic Resistance"
+  },
+  {
+    "slug": "guardian-naga",
+    "name": "Guardian Naga",
+    "challenge_rating": 10.0,
+    "prompt": "Portrait of a Guardian Naga DnD full body illustration, Large monstrosity, lawful good, armed with Bite, Spit Poison, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Rejuvenation, Spellcasting"
+  },
+  {
+    "slug": "stone-golem",
+    "name": "Stone Golem",
+    "challenge_rating": 10.0,
+    "prompt": "Portrait of a Stone Golem DnD full body illustration, Large construct, unaligned, armed with Multiattack, Slam, Slow, sickly green tinted, poison-resistant, mind-shielded, blank expressionless eyes, darkvision eyes adapted for the dark, abilities: Immutable Form, Magic Resistance, Magic Weapons"
+  },
+  {
+    "slug": "young-gold-dragon",
+    "name": "Young Gold Dragon",
+    "challenge_rating": 10.0,
+    "prompt": "Portrait of a Young Gold Dragon DnD full body illustration, Large dragon, lawful good, armed with Multiattack, Bite, Claw, Breath Weapons, fire-resistant, flame-scarred hide, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Amphibious"
+  },
+  {
+    "slug": "young-red-dragon",
+    "name": "Young Red Dragon",
+    "challenge_rating": 10.0,
+    "prompt": "Portrait of a Young Red Dragon DnD full body illustration, Large dragon, chaotic evil, armed with Multiattack, Bite, Claw, Fire Breath, fire-resistant, flame-scarred hide, darkvision eyes adapted for the dark, blind but blindsight perception"
+  },
+  {
+    "slug": "behir",
+    "name": "Behir",
+    "challenge_rating": 11.0,
+    "prompt": "Portrait of a Behir DnD full body illustration, Huge monstrosity, neutral evil, armed with Multiattack, Bite, Constrict, Lightning Breath, Swallow, lightning-scarred, crackling with electricity, darkvision eyes adapted for the dark"
+  },
+  {
+    "slug": "djinni",
+    "name": "Djinni",
+    "challenge_rating": 11.0,
+    "prompt": "Portrait of a Djinni DnD full body illustration, Large elemental, chaotic good, armed with Multiattack, Scimitar, Create Whirlwind, lightning-scarred, crackling with electricity, vibrating with thunder energy, darkvision eyes adapted for the dark, abilities: Elemental Demise, Innate Spellcasting"
+  },
+  {
+    "slug": "efreeti",
+    "name": "Efreeti",
+    "challenge_rating": 11.0,
+    "prompt": "Portrait of a Efreeti DnD full body illustration, Large elemental, lawful evil, armed with Multiattack, Scimitar, Hurl Flame, fire-resistant, flame-scarred hide, darkvision eyes adapted for the dark, abilities: Elemental Demise, Innate Spellcasting"
+  },
+  {
+    "slug": "gynosphinx",
+    "name": "Gynosphinx",
+    "challenge_rating": 11.0,
+    "prompt": "Portrait of a Gynosphinx DnD full body illustration, Large monstrosity, lawful neutral, armed with Multiattack, Claw, mind-shielded, blank expressionless eyes, all-seeing truesight gaze, abilities: Inscrutable, Magic Weapons, Spellcasting, legendary: Claw Attack, Teleport (Costs 2 Actions), Cast a Spell (Costs 3 Actions)"
+  },
+  {
+    "slug": "horned-devil",
+    "name": "Horned Devil",
+    "challenge_rating": 11.0,
+    "prompt": "Portrait of a Horned Devil DnD full body illustration, Large devil fiend, lawful evil, armed with Multiattack, Fork, Tail, Hurl Flame, fire-resistant, flame-scarred hide, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Devil's Sight, Magic Resistance"
+  },
+  {
+    "slug": "remorhaz",
+    "name": "Remorhaz",
+    "challenge_rating": 11.0,
+    "prompt": "Portrait of a Remorhaz DnD full body illustration, Huge monstrosity, unaligned, armed with Bite, Swallow, frost-hardened skin, cold-immune, fire-resistant, flame-scarred hide, darkvision eyes adapted for the dark, tremorsense antennae or vibration-sensitive organs, abilities: Heated Body"
+  },
+  {
+    "slug": "roc",
+    "name": "Roc",
+    "challenge_rating": 11.0,
+    "prompt": "Portrait of a Roc DnD full body illustration, Gargantuan monstrosity, unaligned, armed with Multiattack, Beak, Talons, abilities: Keen Sight"
+  },
+  {
+    "slug": "archmage",
+    "name": "Archmage",
+    "challenge_rating": 12.0,
+    "prompt": "Portrait of a Archmage DnD full body illustration, Medium any race humanoid, any alignment, armed with Dagger, abilities: Magic Resistance, Spellcasting"
+  },
+  {
+    "slug": "erinyes",
+    "name": "Erinyes",
+    "challenge_rating": 12.0,
+    "prompt": "Portrait of a Erinyes DnD full body illustration, Medium devil fiend, lawful evil, armed with Multiattack, Longsword, Longbow, fire-resistant, flame-scarred hide, sickly green tinted, poison-resistant, all-seeing truesight gaze, abilities: Hellish Weapons, Magic Resistance"
+  },
+  {
+    "slug": "adult-brass-dragon",
+    "name": "Adult Brass Dragon",
+    "challenge_rating": 13.0,
+    "prompt": "Portrait of a Adult Brass Dragon DnD full body illustration, Huge dragon, chaotic good, armed with Multiattack, Bite, Claw, Tail, Frightful Presence, Breath Weapons, fire-resistant, flame-scarred hide, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Legendary Resistance, legendary: Detect, Tail Attack, Wing Attack (Costs 2 Actions)"
+  },
+  {
+    "slug": "adult-white-dragon",
+    "name": "Adult White Dragon",
+    "challenge_rating": 13.0,
+    "prompt": "Portrait of a Adult White Dragon DnD full body illustration, Huge dragon, chaotic evil, armed with Multiattack, Bite, Claw, Tail, Frightful Presence, Cold Breath, frost-hardened skin, cold-immune, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Ice Walk, Legendary Resistance, legendary: Detect, Tail Attack, Wing Attack (Costs 2 Actions)"
+  },
+  {
+    "slug": "nalfeshnee",
+    "name": "Nalfeshnee",
+    "challenge_rating": 13.0,
+    "prompt": "Portrait of a Nalfeshnee DnD full body illustration, Large demon fiend, chaotic evil, armed with Multiattack, Bite, Claw, Horror Nimbus, Teleport, sickly green tinted, poison-resistant, all-seeing truesight gaze, abilities: Magic Resistance"
+  },
+  {
+    "slug": "rakshasa",
+    "name": "Rakshasa",
+    "challenge_rating": 13.0,
+    "prompt": "Portrait of a Rakshasa DnD full body illustration, Medium fiend, lawful evil, armed with Multiattack, Claw, darkvision eyes adapted for the dark, abilities: Limited Magic Immunity, Innate Spellcasting"
+  },
+  {
+    "slug": "storm-giant",
+    "name": "Storm Giant",
+    "challenge_rating": 13.0,
+    "prompt": "Portrait of a Storm Giant DnD full body illustration, Huge giant, chaotic good, armed with Multiattack, Greatsword, Rock, Lightning Strike, lightning-scarred, crackling with electricity, vibrating with thunder energy, abilities: Amphibious, Innate Spellcasting"
+  },
+  {
+    "slug": "vampire-bat",
+    "name": "Vampire, Bat Form",
+    "challenge_rating": 13.0,
+    "prompt": "Portrait of a Vampire, Bat Form DnD full body illustration, Medium shapechanger undead, lawful evil, armed with Bite, Charm, Children of the Night, darkvision eyes adapted for the dark, abilities: Shapechanger, Legendary Resistance, Misty Escape, Regeneration, Spider Climb, Vampire Weaknesses, legendary: Move, Unarmed Strike, Bite (Costs 2 Actions)"
+  },
+  {
+    "slug": "vampire-mist",
+    "name": "Vampire, Mist Form",
+    "challenge_rating": 13.0,
+    "prompt": "Portrait of a Vampire, Mist Form DnD full body illustration, Medium shapechanger undead, lawful evil, darkvision eyes adapted for the dark, abilities: Shapechanger, Legendary Resistance, Misty Escape, Regeneration, Spider Climb, Vampire Weaknesses, legendary: Move, Unarmed Strike, Bite (Costs 2 Actions)"
+  },
+  {
+    "slug": "vampire-vampire",
+    "name": "Vampire, Vampire Form",
+    "challenge_rating": 13.0,
+    "prompt": "Portrait of a Vampire, Vampire Form DnD full body illustration, Medium shapechanger undead, lawful evil, armed with Multiattack, Unarmed Strike, Bite, Charm, Children of the Night, darkvision eyes adapted for the dark, abilities: Shapechanger, Legendary Resistance, Misty Escape, Regeneration, Spider Climb, Vampire Weaknesses, legendary: Move, Unarmed Strike, Bite (Costs 2 Actions)"
+  },
+  {
+    "slug": "adult-black-dragon",
+    "name": "Adult Black Dragon",
+    "challenge_rating": 14.0,
+    "prompt": "Portrait of a Adult Black Dragon DnD full body illustration, Huge dragon, chaotic evil, armed with Multiattack, Bite, Claw, Tail, Frightful Presence, Acid Breath, acid-etched, corroded surface, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Amphibious, Legendary Resistance, legendary: Detect, Tail Attack, Wing Attack (Costs 2 Actions)"
+  },
+  {
+    "slug": "adult-copper-dragon",
+    "name": "Adult Copper Dragon",
+    "challenge_rating": 14.0,
+    "prompt": "Portrait of a Adult Copper Dragon DnD full body illustration, Huge dragon, chaotic good, armed with Multiattack, Bite, Claw, Tail, Frightful Presence, Breath Weapons, acid-etched, corroded surface, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Legendary Resistance, legendary: Detect, Tail Attack, Wing Attack (Costs 2 Actions)"
+  },
+  {
+    "slug": "ice-devil",
+    "name": "Ice Devil",
+    "challenge_rating": 14.0,
+    "prompt": "Portrait of a Ice Devil DnD full body illustration, Large devil fiend, lawful evil, armed with Multiattack, Bite, Claws, Tail, Wall of Ice, fire-resistant, flame-scarred hide, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Devil's Sight, Magic Resistance"
+  },
+  {
+    "slug": "adult-bronze-dragon",
+    "name": "Adult Bronze Dragon",
+    "challenge_rating": 15.0,
+    "prompt": "Portrait of a Adult Bronze Dragon DnD full body illustration, Huge dragon, lawful good, armed with Multiattack, Bite, Claw, Tail, Frightful Presence, Breath Weapons, lightning-scarred, crackling with electricity, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Amphibious, Legendary Resistance, legendary: Detect, Tail Attack, Wing Attack (Costs 2 Actions)"
+  },
+  {
+    "slug": "adult-green-dragon",
+    "name": "Adult Green Dragon",
+    "challenge_rating": 15.0,
+    "prompt": "Portrait of a Adult Green Dragon DnD full body illustration, Huge dragon, lawful evil, armed with Multiattack, Bite, Claw, Tail, Frightful Presence, Poison Breath, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Amphibious, Legendary Resistance, legendary: Detect, Tail Attack, Wing Attack (Costs 2 Actions)"
+  },
+  {
+    "slug": "mummy-lord",
+    "name": "Mummy Lord",
+    "challenge_rating": 15.0,
+    "prompt": "Portrait of a Mummy Lord DnD full body illustration, Medium undead, lawful evil, armed with Multiattack, Rotting Fist, Dreadful Glare, shadowed by necrotic energy, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, abilities: Magic Resistance, Rejuvenation, Spellcasting, legendary: Attack, Blinding Dust, Blasphemous Word (Costs 2 Actions), Channel Negative Energy (Costs 2 Actions), Whirlwind of Sand (Costs 2 Actions)"
+  },
+  {
+    "slug": "purple-worm",
+    "name": "Purple Worm",
+    "challenge_rating": 15.0,
+    "prompt": "Portrait of a Purple Worm DnD full body illustration, Gargantuan monstrosity, unaligned, armed with Multiattack, Bite, Tail Stinger, blind but blindsight perception, tremorsense antennae or vibration-sensitive organs, abilities: Tunneler"
+  },
+  {
+    "slug": "adult-blue-dragon",
+    "name": "Adult Blue Dragon",
+    "challenge_rating": 16.0,
+    "prompt": "Portrait of a Adult Blue Dragon DnD full body illustration, Huge dragon, lawful evil, armed with Multiattack, Bite, Claw, Tail, Frightful Presence, Lightning Breath, lightning-scarred, crackling with electricity, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Legendary Resistance, legendary: Detect, Tail Attack, Wing Attack (Costs 2 Actions)"
+  },
+  {
+    "slug": "adult-silver-dragon",
+    "name": "Adult Silver Dragon",
+    "challenge_rating": 16.0,
+    "prompt": "Portrait of a Adult Silver Dragon DnD full body illustration, Huge dragon, lawful good, armed with Multiattack, Bite, Claw, Tail, Frightful Presence, Breath Weapons, frost-hardened skin, cold-immune, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Legendary Resistance, legendary: Detect, Tail Attack, Wing Attack (Costs 2 Actions)"
+  },
+  {
+    "slug": "iron-golem",
+    "name": "Iron Golem",
+    "challenge_rating": 16.0,
+    "prompt": "Portrait of a Iron Golem DnD full body illustration, Large construct, unaligned, armed with Multiattack, Slam, Sword, Poison Breath, fire-resistant, flame-scarred hide, sickly green tinted, poison-resistant, mind-shielded, blank expressionless eyes, darkvision eyes adapted for the dark, abilities: Fire Absorption, Immutable Form, Magic Resistance, Magic Weapons"
+  },
+  {
+    "slug": "marilith",
+    "name": "Marilith",
+    "challenge_rating": 16.0,
+    "prompt": "Portrait of a Marilith DnD full body illustration, Large demon fiend, chaotic evil, armed with Multiattack, Longsword, Tail, Teleport, sickly green tinted, poison-resistant, all-seeing truesight gaze, abilities: Magic Resistance, Magic Weapons, Reactive"
+  },
+  {
+    "slug": "planetar",
+    "name": "Planetar",
+    "challenge_rating": 16.0,
+    "prompt": "Portrait of a Planetar DnD full body illustration, Large celestial, lawful good, armed with Multiattack, Greatsword, Healing Touch, all-seeing truesight gaze, abilities: Angelic Weapons, Divine Awareness, Innate Spellcasting, Magic Resistance"
+  },
+  {
+    "slug": "adult-gold-dragon",
+    "name": "Adult Gold Dragon",
+    "challenge_rating": 17.0,
+    "prompt": "Portrait of a Adult Gold Dragon DnD full body illustration, Huge dragon, lawful good, armed with Multiattack, Bite, Claw, Tail, Frightful Presence, Breath Weapons, fire-resistant, flame-scarred hide, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Amphibious, Legendary Resistance, legendary: Detect, Tail Attack, Wing Attack (Costs 2 Actions)"
+  },
+  {
+    "slug": "adult-red-dragon",
+    "name": "Adult Red Dragon",
+    "challenge_rating": 17.0,
+    "prompt": "Portrait of a Adult Red Dragon DnD full body illustration, Huge dragon, chaotic evil, armed with Multiattack, Bite, Claw, Tail, Frightful Presence, Fire Breath, fire-resistant, flame-scarred hide, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Legendary Resistance, legendary: Detect, Tail Attack, Wing Attack (Costs 2 Actions)"
+  },
+  {
+    "slug": "androsphinx",
+    "name": "Androsphinx",
+    "challenge_rating": 17.0,
+    "prompt": "Portrait of a Androsphinx DnD full body illustration, Large monstrosity, lawful neutral, armed with Multiattack, Claw, Roar, mind-shielded, blank expressionless eyes, all-seeing truesight gaze, abilities: Inscrutable, Magic Weapons, Spellcasting, legendary: Claw Attack, Teleport (Costs 2 Actions), Cast a Spell (Costs 3 Actions)"
+  },
+  {
+    "slug": "dragon-turtle",
+    "name": "Dragon Turtle",
+    "challenge_rating": 17.0,
+    "prompt": "Portrait of a Dragon Turtle DnD full body illustration, Gargantuan dragon, neutral, armed with Multiattack, Bite, Claw, Tail, Steam Breath, darkvision eyes adapted for the dark, abilities: Amphibious"
+  },
+  {
+    "slug": "balor",
+    "name": "Balor",
+    "challenge_rating": 19.0,
+    "prompt": "Portrait of a Balor DnD full body illustration, Huge demon fiend, chaotic evil, armed with Multiattack, Longsword, Whip, Teleport, fire-resistant, flame-scarred hide, sickly green tinted, poison-resistant, all-seeing truesight gaze, abilities: Death Throes, Fire Aura, Magic Resistance, Magic Weapons"
+  },
+  {
+    "slug": "ancient-brass-dragon",
+    "name": "Ancient Brass Dragon",
+    "challenge_rating": 20.0,
+    "prompt": "Portrait of a Ancient Brass Dragon DnD full body illustration, Gargantuan dragon, chaotic good, armed with Multiattack, Bite, Claw, Tail, Frightful Presence, Breath Weapons, Change Shape, fire-resistant, flame-scarred hide, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Legendary Resistance, legendary: Detect, Tail Attack, Wing Attack (Costs 2 Actions)"
+  },
+  {
+    "slug": "ancient-white-dragon",
+    "name": "Ancient White Dragon",
+    "challenge_rating": 20.0,
+    "prompt": "Portrait of a Ancient White Dragon DnD full body illustration, Gargantuan dragon, chaotic evil, armed with Multiattack, Bite, Claw, Tail, Frightful Presence, Cold Breath, frost-hardened skin, cold-immune, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Ice Walk, Legendary Resistance, legendary: Detect, Tail Attack, Wing Attack (Costs 2 Actions)"
+  },
+  {
+    "slug": "pit-fiend",
+    "name": "Pit Fiend",
+    "challenge_rating": 20.0,
+    "prompt": "Portrait of a Pit Fiend DnD full body illustration, Large devil fiend, lawful evil, armed with Multiattack, Bite, Claw, Mace, Tail, fire-resistant, flame-scarred hide, sickly green tinted, poison-resistant, all-seeing truesight gaze, abilities: Fear Aura, Magic Resistance, Magic Weapons, Innate Spellcasting"
+  },
+  {
+    "slug": "ancient-black-dragon",
+    "name": "Ancient Black Dragon",
+    "challenge_rating": 21.0,
+    "prompt": "Portrait of a Ancient Black Dragon DnD full body illustration, Gargantuan dragon, chaotic evil, armed with Multiattack, Bite, Claw, Tail, Frightful Presence, Acid Breath, acid-etched, corroded surface, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Amphibious, Legendary Resistance, legendary: Detect, Tail Attack, Wing Attack (Costs 2 Actions)"
+  },
+  {
+    "slug": "ancient-copper-dragon",
+    "name": "Ancient Copper Dragon",
+    "challenge_rating": 21.0,
+    "prompt": "Portrait of a Ancient Copper Dragon DnD full body illustration, Gargantuan dragon, chaotic good, armed with Multiattack, Bite, Claw, Tail, Frightful Presence, Breath Weapons, Change Shape, acid-etched, corroded surface, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Legendary Resistance, legendary: Detect, Tail Attack, Wing Attack (Costs 2 Actions)"
+  },
+  {
+    "slug": "lich",
+    "name": "Lich",
+    "challenge_rating": 21.0,
+    "prompt": "Portrait of a Lich DnD full body illustration, Medium undead, any evil alignment, armed with Paralyzing Touch, sickly green tinted, poison-resistant, all-seeing truesight gaze, abilities: Legendary Resistance, Rejuvenation, Spellcasting, Turn Resistance, legendary: Cantrip, Paralyzing Touch (Costs 2 Actions), Frightening Gaze (Costs 2 Actions), Disrupt Life (Costs 3 Actions)"
+  },
+  {
+    "slug": "solar",
+    "name": "Solar",
+    "challenge_rating": 21.0,
+    "prompt": "Portrait of a Solar DnD full body illustration, Large celestial, lawful good, armed with Multiattack, Greatsword, Slaying Longbow, Flying Sword, Healing Touch, shadowed by necrotic energy, sickly green tinted, poison-resistant, all-seeing truesight gaze, abilities: Angelic Weapons, Divine Awareness, Innate Spellcasting, Magic Resistance, legendary: Teleport, Searing Burst (Costs 2 Actions), Blinding Gaze (Costs 3 Actions)"
+  },
+  {
+    "slug": "ancient-bronze-dragon",
+    "name": "Ancient Bronze Dragon",
+    "challenge_rating": 22.0,
+    "prompt": "Portrait of a Ancient Bronze Dragon DnD full body illustration, Gargantuan dragon, lawful good, armed with Multiattack, Bite, Claw, Tail, Frightful Presence, Breath Weapons, Change Shape, lightning-scarred, crackling with electricity, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Amphibious, Legendary Resistance, legendary: Detect, Tail Attack, Wing Attack (Costs 2 Actions)"
+  },
+  {
+    "slug": "ancient-green-dragon",
+    "name": "Ancient Green Dragon",
+    "challenge_rating": 22.0,
+    "prompt": "Portrait of a Ancient Green Dragon DnD full body illustration, Gargantuan dragon, lawful evil, armed with Multiattack, Bite, Claw, Tail, Frightful Presence, Poison Breath, sickly green tinted, poison-resistant, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Amphibious, Legendary Resistance, legendary: Detect, Tail Attack, Wing Attack (Costs 2 Actions)"
+  },
+  {
+    "slug": "ancient-blue-dragon",
+    "name": "Ancient Blue Dragon",
+    "challenge_rating": 23.0,
+    "prompt": "Portrait of a Ancient Blue Dragon DnD full body illustration, Gargantuan dragon, lawful evil, armed with Multiattack, Bite, Claw, Tail, Frightful Presence, Lightning Breath, lightning-scarred, crackling with electricity, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Legendary Resistance, legendary: Detect, Tail Attack, Wing Attack (Costs 2 Actions)"
+  },
+  {
+    "slug": "ancient-silver-dragon",
+    "name": "Ancient Silver Dragon",
+    "challenge_rating": 23.0,
+    "prompt": "Portrait of a Ancient Silver Dragon DnD full body illustration, Gargantuan dragon, lawful good, armed with Multiattack, Bite, Claw, Tail, Frightful Presence, Breath Weapons, Change Shape, frost-hardened skin, cold-immune, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Legendary Resistance, legendary: Detect, Tail Attack, Wing Attack (Costs 2 Actions)"
+  },
+  {
+    "slug": "kraken",
+    "name": "Kraken",
+    "challenge_rating": 23.0,
+    "prompt": "Portrait of a Kraken DnD full body illustration, Gargantuan titan monstrosity, chaotic evil, armed with Multiattack, Bite, Tentacle, Fling, Lightning Storm, lightning-scarred, crackling with electricity, all-seeing truesight gaze, abilities: Amphibious, Freedom of Movement, Siege Monster, legendary: Tentacle Attack or Fling, Lightning Storm (Costs 2 Actions), Ink Cloud (Costs 3 Actions)"
+  },
+  {
+    "slug": "ancient-gold-dragon",
+    "name": "Ancient Gold Dragon",
+    "challenge_rating": 24.0,
+    "prompt": "Portrait of a Ancient Gold Dragon DnD full body illustration, Gargantuan dragon, lawful good, armed with Multiattack, Bite, Claw, Tail, Frightful Presence, Breath Weapons, Change Shape, fire-resistant, flame-scarred hide, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Amphibious, Legendary Resistance, legendary: Detect, Tail Attack, Wing Attack (Costs 2 Actions)"
+  },
+  {
+    "slug": "ancient-red-dragon",
+    "name": "Ancient Red Dragon",
+    "challenge_rating": 24.0,
+    "prompt": "Portrait of a Ancient Red Dragon DnD full body illustration, Gargantuan dragon, chaotic evil, armed with Multiattack, Bite, Claw, Tail, Frightful Presence, Fire Breath, fire-resistant, flame-scarred hide, darkvision eyes adapted for the dark, blind but blindsight perception, abilities: Legendary Resistance, legendary: Detect, Tail Attack, Wing Attack (Costs 2 Actions)"
+  },
+  {
+    "slug": "tarrasque",
+    "name": "Tarrasque",
+    "challenge_rating": 30.0,
+    "prompt": "Portrait of a Tarrasque DnD full body illustration, Gargantuan titan monstrosity, unaligned, armed with Multiattack, Bite, Claw, Horns, Tail, Frightful Presence, Swallow, fire-resistant, flame-scarred hide, sickly green tinted, poison-resistant, blind but blindsight perception, abilities: Legendary Resistance, Magic Resistance, Reflective Carapace, Siege Monster, legendary: Attack, Move, Chomp (Costs 2 Actions)"
+  }
+]
